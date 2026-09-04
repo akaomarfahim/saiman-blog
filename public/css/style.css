@@ -8,7 +8,7 @@
   --color-accent-2: #ec4899;
   --color-danger: #d33d33;
   --color-success: #1f8a4c;
-  --gradient-accent: linear-gradient(120deg, #7c3aed, #ec4899);
+  --gradient-accent: linear-gradient(120deg, #edc93a, #ec4899);
   --font-display: 'Sora', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --radius: 18px;
@@ -58,8 +58,8 @@ a:hover { color: var(--color-accent); }
   opacity: 0.35;
   animation: floatOrb 22s ease-in-out infinite;
 }
-.orb-1 { width: 420px; height: 420px; background: #7c3aed; top: -120px; left: -100px; animation-duration: 26s; }
-.orb-2 { width: 380px; height: 380px; background: #ec4899; top: 10%; right: -140px; animation-duration: 30s; animation-delay: -6s; }
+.orb-1 { width: 420px; height: 420px; background: #3aed52; top: -120px; left: -100px; animation-duration: 26s; }
+.orb-2 { width: 380px; height: 380px; background: #ec4848; top: 10%; right: -140px; animation-duration: 30s; animation-delay: -6s; }
 .orb-3 { width: 320px; height: 320px; background: #38bdf8; bottom: -100px; left: 30%; animation-duration: 24s; animation-delay: -12s; }
 
 @keyframes floatOrb {
@@ -126,7 +126,7 @@ a:hover { color: var(--color-accent); }
 }
 .brand:hover { color: var(--color-text); }
 .brand-mark {
-  background: var(--gradient-accent);
+  background: red;
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -197,6 +197,14 @@ a:hover { color: var(--color-accent); }
 .link-button:hover { text-decoration: underline; opacity: 0.8; }
 .link-danger { color: var(--color-danger); }
 .inline-form { display: inline; }
+
+.no-underline,
+.no-underline:hover,
+.no-underline::before,
+.no-underline::after {
+  text-decoration: none !important;
+  content: none !important;
+}
 
 /* ---------- Flash / error messages ---------- */
 .flash {
