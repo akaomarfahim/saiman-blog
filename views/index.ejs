@@ -1,0 +1,81 @@
+<%- include('partials/header') %>
+
+<section class="page-intro reveal">
+  <p class="intro-kicker">Welcome back</p>
+  <h1 class="intro-title">Stories worth<br />your time</h1>
+</section>
+
+<% if (posts.length === 0) { %>
+  <p class="empty-state">No posts yet. Check back soon!</p>
+<% } else {
+  const featured = posts[0];
+  const sidePosts = posts.slice(1, 4);
+  const morePosts = posts.slice(4);
+%>
+
+  <section class="hero-grid <%= sidePosts.length === 0 ? 'no-side' : '' %> reveal">
+    <article class="hero-tile hero-feature">
+      <a href="/post/<%= featured.slug %>" class="hero-tile-link">
+        <% if (featured.imageUrl) { %>
+          <img src="<%= featured.imageUrl %>" alt="<%= featured.title %>" class="hero-tile-image" />
+        <% } else { %>
+          <div class="hero-tile-image placeholder-gradient"></div>
+        <% } %>
+        <div class="hero-tile-overlay"></div>
+        <div class="hero-tile-content">
+          <span class="tile-tag">Featured</span>
+          <h2><%= featured.title %></h2>
+          <p class="hero-excerpt"><%= featured.excerpt || featured.content.slice(0, 160) + '...' %></p>
+          <span class="tile-meta"><%= new Date(featured.createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) %></span>
+        </div>
+      </a>
+    </article>
+
+    <% if (sidePosts.length > 0) { %>
+      <div class="hero-side">
+        <% sidePosts.forEach(function(post) { %>
+          <article class="hero-tile hero-side-item">
+            <a href="/post/<%= post.slug %>" class="hero-tile-link">
+              <% if (post.imageUrl) { %>
+                <img src="<%= post.imageUrl %>" alt="<%= post.title %>" class="hero-tile-image" />
+              <% } else { %>
+                <div class="hero-tile-image placeholder-gradient"></div>
+              <% } %>
+              <div class="hero-tile-overlay"></div>
+              <div class="hero-tile-content">
+                <h3><%= post.title %></h3>
+                <span class="tile-meta"><%= new Date(post.createdAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) %></span>
+              </div>
+            </a>
+          </article>
+        <% }) %>
+      </div>
+    <% } %>
+  </section>
+
+  <% if (morePosts.length > 0) { %>
+    <div class="section-divider reveal"><span>More stories</span></div>
+
+    <section class="post-grid">
+      <% morePosts.forEach(function(post) { %>
+        <article class="post-card reveal">
+          <a href="/post/<%= post.slug %>" class="post-card-image-link">
+            <% if (post.imageUrl) { %>
+              <img src="<%= post.imageUrl %>" alt="<%= post.title %>" class="post-card-image" />
+            <% } else { %>
+              <div class="post-card-image placeholder-gradient"></div>
+            <% } %>
+          </a>
+          <div class="post-card-body">
+            <h3><a href="/post/<%= post.slug %>"><%= post.title %></a></h3>
+            <p class="post-meta"><%= new Date(post.createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) %></p>
+            <p class="post-excerpt"><%= post.excerpt || post.content.slice(0, 120) + '...' %></p>
+            <a href="/post/<%= post.slug %>" class="read-more">Read more &rarr;</a>
+          </div>
+        </article>
+      <% }) %>
+    </section>
+  <% } %>
+<% } %>
+
+<%- include('partials/footer') %>

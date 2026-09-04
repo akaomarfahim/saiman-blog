@@ -1,0 +1,25 @@
+<%- include('partials/header') %>
+
+<section class="auth-form-wrap reveal">
+  <h1>Log in</h1>
+
+  <% if (errors.length > 0) { %>
+    <ul class="error-list">
+      <% errors.forEach(function(err) { %><li><%= err %></li><% }) %>
+    </ul>
+  <% } %>
+
+  <form action="/login" method="POST" class="auth-form">
+    <label for="identifier">Username or email</label>
+    <input type="text" id="identifier" name="identifier" value="<%= old.identifier || '' %>" required autofocus />
+
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password" required />
+
+    <button type="submit" class="btn btn-full">Log in</button>
+  </form>
+
+  <p class="auth-switch">Don't have an account? <a href="/register">Sign up</a></p>
+</section>
+
+<%- include('partials/footer') %>

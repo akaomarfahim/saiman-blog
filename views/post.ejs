@@ -1,0 +1,111 @@
+<%- include('partials/header') %>
+
+<article class="single-post reveal">
+  <p class="eyebrow">Post</p>
+  <h1><%= post.title %></h1>
+  <p class="post-meta">
+    By <span class="byline"><%= author ? author.username : 'Unknown' %></span> ·
+    <%= new Date(post.createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) %>
+    <% if (post.updatedAt !== post.createdAt) { %> · updated <%= new Date(post.updatedAt).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) %><% } %>
+  </p>
+
+  <% if (currentUser && currentUser.role === 'admin') { %>
+    <div class="admin-actions">
+      <a href="/admin/edit/<%= post.id %>" class="btn btn-small btn-outline">Edit post</a>
+      <form action="/admin/delete/<%= post.id %>" method="POST" onsubmit="return confirm('Delete this post and all its comments?');" class="inline-form">
+        <button type="submit" class="btn btn-small btn-danger">Delete post</button>
+      </form>
+    </div>
+  <% } %>
+
+  <% if (post.imageUrl) { %>
+    <figure class="single-post-image">
+      <img src="<%= post.imageUrl %>" alt="<%= post.title %>" />
+    </figure>
+  <% } %>
+
+  <div class="post-content"><%- post.content.split('\n').map(function(p){ return p.trim() ? '<p>' + p + '</p>' : ''; }).join('') %></div>
+</article>
+
+<section id="comment-list" class="comments-section reveal">
+  <div class="section-divider"><span>Discussion (<%= comments.reduce(function(n, c){ return n + 1 + c.replies.length; }, 0) %>)</span></div>
+
+  <% if (currentUser) { %>
+    <form action="/post/<%= post.slug %>/comments" method="POST" class="comment-form">
+      <label for="content">Add a comment</label>
+      <textarea id="content" name="content" rows="3" placeholder="Share your thoughts..." required></textarea>
+      <button type="submit" class="btn">Post comment</button>
+    </form>
+  <% } else { %>
+    <p class="login-prompt">
+      <a href="/login">Log in</a> or <a href="/register">create an account</a> to leave a comment.
+    </p>
+  <% } %>
+
+  <div class="comment-thread">
+    <% if (comments.length === 0) { %>
+      <p class="empty-state">No comments yet. Be the first to say something!</p>
+    <% } %>
+
+    <% comments.forEach(function(comment) { %>
+      <div class="comment" id="comment-<%= comment.id %>">
+        <div class="comment-header">
+          <span class="comment-avatar"><%= comment.authorName.charAt(0).toUpperCase() %></span>
+          <div>
+            <span class="comment-author <%= comment.authorRole === 'admin' ? 'author-badge' : '' %>">
+              <%= comment.authorName %><% if (comment.authorRole === 'admin') { %> <span class="badge">Author</span><% } %>
+            </span>
+            <span class="comment-date"><%= new Date(comment.createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) %></span>
+          </div>
+        </div>
+        <p class="comment-body"><%= comment.content %></p>
+
+        <div class="comment-actions">
+          <% if (currentUser) { %>
+            <button class="link-button toggle-reply" data-target="reply-form-<%= comment.id %>">Reply</button>
+          <% } %>
+          <% if (currentUser && (currentUser.id === comment.userId || currentUser.role === 'admin')) { %>
+            <form action="/comments/<%= comment.id %>/delete" method="POST" class="inline-form" onsubmit="return confirm('Delete this comment?');">
+              <button type="submit" class="link-button link-danger">Delete</button>
+            </form>
+          <% } %>
+        </div>
+
+        <% if (currentUser) { %>
+          <form action="/comments/<%= comment.id %>/reply" method="POST" class="reply-form hidden" id="reply-form-<%= comment.id %>">
+            <textarea name="content" rows="2" placeholder="Write a reply..." required></textarea>
+            <button type="submit" class="btn btn-small">Post reply</button>
+          </form>
+        <% } %>
+
+        <% if (comment.replies.length > 0) { %>
+          <div class="replies">
+            <% comment.replies.forEach(function(reply) { %>
+              <div class="comment reply" id="comment-<%= reply.id %>">
+                <div class="comment-header">
+                  <span class="comment-avatar"><%= reply.authorName.charAt(0).toUpperCase() %></span>
+                  <div>
+                    <span class="comment-author <%= reply.authorRole === 'admin' ? 'author-badge' : '' %>">
+                      <%= reply.authorName %><% if (reply.authorRole === 'admin') { %> <span class="badge">Author</span><% } %>
+                    </span>
+                    <span class="comment-date"><%= new Date(reply.createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) %></span>
+                  </div>
+                </div>
+                <p class="comment-body"><%= reply.content %></p>
+                <% if (currentUser && (currentUser.id === reply.userId || currentUser.role === 'admin')) { %>
+                  <div class="comment-actions">
+                    <form action="/comments/<%= reply.id %>/delete" method="POST" class="inline-form" onsubmit="return confirm('Delete this reply?');">
+                      <button type="submit" class="link-button link-danger">Delete</button>
+                    </form>
+                  </div>
+                <% } %>
+              </div>
+            <% }) %>
+          </div>
+        <% } %>
+      </div>
+    <% }) %>
+  </div>
+</section>
+
+<%- include('partials/footer') %>
