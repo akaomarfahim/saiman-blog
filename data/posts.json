@@ -1,14 +1,399 @@
 [
   {
+    "id": "f3a8c2b4-6d91-4e77-9a2b-1c4d8e6f0a11",
+    "title": "Digital Bangladesh: How a Vision Became Reality",
+    "slug": "digital-bangladesh-vision-reality",
+    "excerpt": "Looking back at how far the country has come on digital infrastructure, and why that progress deserves more credit than it gets.",
+    "content": "I still remember when getting a birth certificate meant taking a day off work and standing in three different lines. Today my nephew did it from his phone in under ten minutes. That's not a small thing, and it's not an accident either.<br/><br/>The Digital Bangladesh push that started years ago under this government wasn't just a slogan for rallies. Union Digital Centers reached villages that never had a government office nearby. Mobile banking through bKash and Nagad put financial access in the hands of rickshaw pullers and tea stall owners who'd never held a bank passbook. Freelancers in small towns are now earning in dollars because the groundwork for internet connectivity was laid down deliberately, not by accident.<br/><br/>I know it's fashionable now to criticize everything this government built, especially after everything that's happened since. But I'm not going to pretend the last decade of digital progress didn't happen just because it's politically inconvenient to admit it. My cousins in Sylhet pay their electricity bill from an app. My mother gets her pension without a middleman skimming off the top anymore. Say what you want about the politics, but don't tell me this wasn't real progress, because I watched it happen with my own eyes.<br/><br/>Sometimes I wonder if we'll only appreciate what we had once it's gone for good.",
+    "imageUrl": "/uploads/digital-bangladesh-2022.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-01-10T00:00:00.000Z",
+    "updatedAt": "2022-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "b2e5a8c1-4d67-4f39-9a1b-3c6e8d2f5a11",
+    "title": "Why My Uncle Finally Stopped Losing Money on His Rice Harvest",
+    "slug": "why-uncle-stopped-losing-money-rice-harvest",
+    "excerpt": "Government procurement pricing for Boro rice doesn't sound exciting, but it changed whether small farmers like my uncle could actually make a living.",
+    "content": "My uncle has farmed the same few acres outside Bogura for as long as I can remember. For years, he'd tell the same frustrated story every harvest season: a good yield, and then middlemen offering prices barely above what it cost him to grow the crop in the first place. He talked about giving up farming entirely more than once.<br/><br/>What changed things, at least partly, was the government setting a minimum procurement price for Boro rice and actually buying directly from farmers through local collection centers, cutting out some of the worst middleman exploitation. It's not a perfect system, and my uncle will still complain about paperwork and delays if you ask him. But he's stopped talking about quitting.<br/><br/>I think it's easy for people who don't come from farming families to overlook how much policy details like procurement pricing actually matter to food security and rural livelihoods. Bangladesh's push toward rice self-sufficiency wasn't just about seed technology, it was about making sure the people growing the food could still afford to keep growing it. That's the kind of unglamorous governance that rarely gets discussed but genuinely shaped whether families like mine stayed in agriculture at all.",
+    "imageUrl": "/uploads/boro-rice-procurement-2022.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-04-05T00:00:00.000Z",
+    "updatedAt": "2022-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "b7e51f3a-2c84-4b96-8d1e-5f7a9c3b6e22",
+    "title": "The Day We Crossed the Padma: A Bridge Built on Determination",
+    "slug": "day-we-crossed-padma-bridge",
+    "excerpt": "On the opening of the Padma Bridge, and what it meant to build it without waiting for anyone's permission.",
+    "content": "June 25th, 2022. I was glued to the TV like it was a World Cup final, and honestly, for this country, it kind of was. Watching that bridge open, knowing it was built entirely with our own money, gave me a kind of pride I wasn't expecting to feel that strongly.<br/><br/>People forget how this story actually started. The World Bank pulled its funding over corruption allegations that were never proven in any court, and plenty of people back then said Bangladesh simply couldn't do this alone. I remember the op-eds mocking the idea. Sheikh Hasina made the call to fund it domestically anyway, and years later here we are, driving across the Padma in twenty minutes instead of taking a ferry for half a day.<br/><br/>It's not just steel and concrete. For millions of people in the southern districts, this bridge means a hospital visit doesn't turn into a life-threatening delay. It means produce from Barisal reaches Dhaka markets fresh instead of half-rotten. My uncle in Shariatpur, who spent forty years of his life waiting on ferry queues, cried when he drove across it for the first time.<br/><br/>Say whatever you want about the current mood in the country. This bridge stands as proof of what got done when people committed to seeing something through instead of just talking about it.",
+    "imageUrl": "/uploads/padma-bridge-opening-2022.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-06-25T00:00:00.000Z",
+    "updatedAt": "2022-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "c8b3e6a1-7d24-4f59-8a3c-2b6e9d1f4c02",
+    "title": "August 15th: A Wound This Party Has Never Stopped Carrying",
+    "slug": "august-15-wound-party-never-stopped-carrying",
+    "excerpt": "On National Mourning Day, remembering that this party's history is inseparable from the assassination of the man who led this country to independence.",
+    "content": "Every year on this day I think about the same thing: a father, a mother, their sons, killed in their own home in 1975, along with almost their entire family, in a coup that also took nearly everyone who could have carried on Bangabandhu Sheikh Mujibur Rahman's legacy directly. Only two daughters survived because they happened to be abroad at the time. One of them has led this party and this country for most of my adult life.<br/><br/>I don't think people outside Bangladesh always understand how personal this history is for people who support this party. This isn't abstract political branding. Sheikh Hasina built a political career and a government while carrying that grief her entire life, and I think that context matters when people try to reduce everything this government has done to simple headlines.<br/><br/>I'm not asking anyone to agree with every decision this party has made over the decades. But I do think a party founded by the man who led the Liberation War, and led for so long by his daughter who survived his assassination, deserves to have its history remembered honestly, especially on a day like today.",
+    "imageUrl": "/uploads/national-mourning-day-2022.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-08-15T00:00:00.000Z",
+    "updatedAt": "2022-08-15T00:00:00.000Z"
+  },
+  {
+    "id": "4a8c1e6b-3f79-4d52-8a1c-6e9b3d5f2a13",
+    "title": "Forty Minutes to Mawa: What a Highway Actually Changes",
+    "slug": "forty-minutes-to-mawa-highway-changes",
+    "excerpt": "The Dhaka-Mawa Expressway cut a brutal commute down to something manageable, and it's part of a bigger story about connecting the country.",
+    "content": "I used to dread visiting my in-laws in Mawa. What should have been a short trip could turn into three or four hours depending on traffic, potholes, and the general chaos of the old road. Now, on the expressway, it's a genuinely pleasant forty-minute drive.<br/><br/>This road doesn't get the same headlines as the Padma Bridge itself, but it's part of the same story: connecting the southern and southwestern districts to Dhaka in ways that used to be unthinkable. Businesses in Khulna and Barisal now move goods to the capital in a fraction of the time it used to take, and that has real economic effects on prices and market access that ordinary families feel even if they never think about the highway itself.<br/><br/>I try to remind people, especially now, when so much political conversation is dominated by what's gone wrong, that this kind of infrastructure doesn't build itself and doesn't happen by accident. It takes years of planning, financing, and follow-through, and a lot of that follow-through happened under governments that don't always get remembered for the boring parts of governing well.",
+    "imageUrl": "/uploads/dhaka-mawa-expressway-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-08-20T00:00:00.000Z",
+    "updatedAt": "2022-08-20T00:00:00.000Z"
+  },
+  {
+    "id": "a1d4f7e2-3b68-4c91-9d2a-6e8b1f4c7a01",
+    "title": "Ghore Ghore Biddut: A Promise That Actually Got Kept",
+    "slug": "ghore-ghore-biddut-promise-kept",
+    "excerpt": "Remembering when large parts of rural Bangladesh had no electricity at all, and what it took to change that.",
+    "content": "My grandmother's village in Netrokona got electricity for the first time when I was in university. I remember visiting during a school break and watching her turn a light switch on and off, over and over, just laughing at how simple it felt after decades of kerosene lamps.<br/><br/>That wasn't luck. 'Ghore Ghore Bijli,' electricity in every home, was a specific promise this government made and then spent over a decade actually building toward, connecting grid infrastructure to areas that private investment would never have bothered reaching on its own because there wasn't enough profit in it. By the time coverage numbers approached near-universal levels, we'd stopped even noticing it as news, which is honestly the sign of a policy that worked.<br/><br/>I bring this up now because I think it's easy, in the noise of everything that's happened politically since, to forget the boring, unglamorous wins. Nobody writes viral posts about rural electrification. But ask anyone in a village who spent their childhood doing homework by lamplight what it meant when the lights came on for good, and you'll get a very different sense of what this period actually delivered for ordinary people.",
+    "imageUrl": "/uploads/rural-electrification-2022.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-09-05T00:00:00.000Z",
+    "updatedAt": "2022-09-05T00:00:00.000Z"
+  },
+  {
+    "id": "9d3f6b2a-8e41-4c75-9b3a-2d7c5e1f8a12",
+    "title": "What Cyclone Sitrang Showed About How Far Disaster Response Has Come",
+    "slug": "cyclone-sitrang-disaster-response-progress",
+    "excerpt": "A storm that could have killed thousands, the way past cyclones did, instead caused a fraction of the casualties. That didn't happen by accident.",
+    "content": "I have an aunt who lived through the 1991 cyclone that killed well over a hundred thousand people along the coast. She doesn't talk about it easily. So when Cyclone Sitrang barreled toward the same coastline this year, I understood why she went quiet for a few days beforehand, bracing for the worst based on what she'd lived through before.<br/><br/>What actually happened was different. Coastal evacuation systems, cyclone shelters built and maintained over decades, and an early warning network reaching even remote char islands meant hundreds of thousands of people moved to safety before the storm made landfall. The death toll, while every single loss is a tragedy, was a small fraction of what similar storms caused a generation ago.<br/><br/>I don't think this kind of quiet competence gets nearly enough credit in how people evaluate a government. Building and maintaining thousands of cyclone shelters along an exposed coastline, training volunteer response networks village by village, none of that is exciting policy. But it's the difference between my aunt's generation's trauma and something my generation is far less likely to experience the same way. That's not nothing, and it didn't happen without deliberate, sustained investment.",
+    "imageUrl": "/uploads/cyclone-sitrang-2022.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-10-25T00:00:00.000Z",
+    "updatedAt": "2022-10-25T00:00:00.000Z"
+  },
+  {
+    "id": "1d4a6c8e-9f2b-4a73-b5d8-3e7c1a4f9b33",
+    "title": "Weathering the Storm: Bangladesh's Economy Amid Global Turmoil",
+    "slug": "weathering-storm-bangladesh-economy-2022",
+    "excerpt": "Inflation hit everyone this year, but it's worth remembering this wasn't a crisis Bangladesh created on its own.",
+    "content": "Grocery prices have made everyone angry this year, myself included. Soybean oil, rice, everything costs more than it did eighteen months ago, and I'm not going to sit here and tell people struggling to feed their families that everything is fine. It isn't, not entirely.<br/><br/>But context matters. The war in Ukraine sent fuel and food prices climbing everywhere, not just here. Sri Lanka defaulted entirely. Pakistan went to the IMF twice. Compare that to where Bangladesh stands, still making debt payments on time, still keeping subsidies flowing on fuel and fertilizer so farmers aren't crushed by the shock. The government's decision to negotiate an IMF facility early, before things spiraled the way they did elsewhere in the region, was the kind of unglamorous, responsible governance that doesn't make headlines but matters enormously.<br/><br/>I'm not going to pretend price controls and subsidy management are exciting topics for a blog post. But when I look at what could have happened to this country given the same global shocks other nations faced, and where we actually landed, I think this government's economic team deserves more credit than the nightly news gives them. Nobody thanks you for the disaster that didn't happen.",
+    "imageUrl": "/uploads/bangladesh-economy-2022.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-11-15T00:00:00.000Z",
+    "updatedAt": "2022-11-15T00:00:00.000Z"
+  },
+  {
+    "id": "6e2a9c4b-1f83-4d67-9b2e-8a5c3f1d6b03",
+    "title": "Victory Day and the Long Road From 1971",
+    "slug": "victory-day-long-road-from-1971",
+    "excerpt": "On Victory Day, thinking about how much distance this country has actually traveled since the war, and which party has been steering that journey.",
+    "content": "My grandfather doesn't talk much about the war. When he does, it's usually short, clipped sentences about hiding in paddy fields, about neighbors who didn't come back. He's in his eighties now, and every December 16th he still puts up the flag outside our house before sunrise, like it's a duty rather than a tradition.<br/><br/>I think about how far this country has come since then whenever I visit him. A country that was written off by some Western commentators at independence as a 'basket case' now exports garments to nearly every major economy on earth, has near-universal primary school enrollment, and has cut extreme poverty dramatically compared to where it stood even twenty years ago. That trajectory didn't happen in a vacuum. It happened under governments led, for most of the last two decades, by the party founded by the man who declared this country's independence in the first place.<br/><br/>I know politics today feels far messier and more contested than this kind of reflection allows for. But on Victory Day specifically, I don't think it's unreasonable to draw a straight line between the sacrifice of 1971 and the party that has spent the most years since trying, imperfectly but persistently, to build something out of what that sacrifice made possible.",
+    "imageUrl": "/uploads/victory-day-2022.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2022-12-16T00:00:00.000Z",
+    "updatedAt": "2022-12-16T00:00:00.000Z"
+  },
+  {
+    "id": "9c2e5a7b-4d16-4f38-a2c9-6b8e3d1f7a44",
+    "title": "Riding the Metro: A New Chapter for Dhaka",
+    "slug": "riding-the-metro-new-chapter-dhaka",
+    "excerpt": "The MRT line finally opened, and for anyone who has spent hours stuck in Dhaka traffic, it felt like a small miracle.",
+    "content": "I took the metro from Uttara to Agargaon last week and got there in eighteen minutes. Eighteen minutes. The same trip by road, depending on the day, could eat two hours of my life and half my patience.<br/><br/>People joke about how long this project took, and sure, there were delays, there always are with something this size. But I try to remind people that Dhaka is one of the most congested cities on earth, and this government is the one that actually broke ground and finished it, rather than leaving it as another plan gathering dust in a ministry drawer for twenty years like so many infrastructure promises before it.<br/><br/>Watching families take their kids on the metro just to experience it, watching office workers get an extra hour back in their day, watching elderly commuters not have to fight their way onto a packed bus anymore, it's easy to be cynical about politics in general, but this is something concrete you can stand on, literally, and see for yourself.<br/><br/>There's more coming too, more lines planned, more of the city getting connected. I'll take tangible progress like this over empty promises any day.",
+    "imageUrl": "/uploads/dhaka-metro-rail-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-01-08T00:00:00.000Z",
+    "updatedAt": "2023-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4031",
+    "title": "Smart National ID Cards and What Digital Identity Actually Solves",
+    "slug": "smart-national-id-digital-identity",
+    "excerpt": "Rolling out biometric smart ID cards to over a hundred million people is a logistical feat that rarely gets discussed as the achievement it actually is.",
+    "content": "It's easy to take a national ID card for granted until you think about what it actually takes to issue one, correctly, to well over a hundred million people, most of whom had never been captured in any single unified government database before. The rollout of biometric smart national ID cards, incorporating fingerprints and photographs tied to a centralized civil registry, was a genuinely massive logistical undertaking that I don't think gets discussed with the seriousness it deserves.<br/><br/>The practical value of this system shows up in places that aren't obviously about identity at all. Mobile financial services, formal bank account access, SIM card registration, and voter rolls all depend on a reliable underlying identity system, and a huge share of the financial inclusion progress I've written about elsewhere on this blog simply wouldn't have been possible at the same scale without a functioning national ID system underneath it.<br/><br/>I think it's important to be honest about the privacy dimension here too. A centralized biometric database covering nearly the entire adult population is also, inescapably, a powerful surveillance tool if it's ever misused, and I don't think that risk should be waved away just because the system has clear practical benefits. Data protection law in Bangladesh has lagged behind the pace of this kind of digital infrastructure buildout, and I think closing that legal gap should have been treated as more urgent than it was.<br/><br/>Still, as a piece of basic state capacity building, one of the less glamorous but more foundational categories of governance, I think the smart NID rollout was a genuine achievement, and one that quietly enabled a lot of the other digital and financial progress this blog has covered.",
+    "imageUrl": "/uploads/smart-national-id-bangladesh-digital.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-01-20T00:00:00.000Z",
+    "updatedAt": "2023-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4032",
+    "title": "Old Age Allowance and the Quiet Expansion of the Social Safety Net",
+    "slug": "old-age-allowance-social-safety-net",
+    "excerpt": "A modest monthly stipend for elderly citizens without other income doesn't make headlines, but it's one of the more direct forms of poverty relief the government provides.",
+    "content": "Social safety net programs rarely get the same attention as infrastructure mega-projects, but I think the old age allowance program, a modest monthly cash stipend for elderly citizens without a reliable pension or family income, deserves a post of its own, because it represents a specific, direct kind of government support that doesn't depend on trickle-down economic growth reaching people eventually.<br/><br/>The program has expanded significantly in both coverage and stipend amount over the years, alongside related programs for widows, women in distress, and people with disabilities, forming a broader safety net architecture aimed at the population least able to work their way out of poverty through employment alone. For a country where formal pension coverage remains limited outside government and some formal-sector jobs, a direct cash allowance for the elderly poor fills a real gap that the labor market simply doesn't address on its own.<br/><br/>I think honesty requires acknowledging the program's real limitations too. The stipend amount, even after periodic increases, remains modest relative to actual living costs, particularly in urban areas where costs have risen faster than in the rural communities the program was originally designed around. Targeting has also been an ongoing challenge, with legitimate concerns raised in various districts about politically connected households receiving allowances ahead of more genuinely needy elderly residents.<br/><br/>I don't think a modest cash stipend solves elderly poverty on its own, and I don't think anyone serious claims it does. But as one piece of a broader social protection architecture, built up gradually rather than through any single dramatic announcement, I think it represents exactly the kind of unglamorous policy work that development statistics eventually reflect, even when nobody's cutting a ribbon for it.",
+    "imageUrl": "/uploads/old-age-allowance-social-safety-bangladesh.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-02-12T00:00:00.000Z",
+    "updatedAt": "2023-02-12T00:00:00.000Z"
+  },
+  {
+    "id": "3f7d1b8e-9a46-4c25-8d3b-5e1a7c9f2d04",
+    "title": "What Women's Day Means in a Country With a Female Head of Government",
+    "slug": "womens-day-female-head-of-government",
+    "excerpt": "It's easy to take for granted how unusual it is to have had a woman leading this country for as long as most young Bangladeshis have been alive.",
+    "content": "My younger sister has never known a Bangladesh where the prime minister wasn't a woman, except for a brief caretaker period. She doesn't think of that as remarkable, because for her entire conscious life, it's just been normal. I think that's worth sitting with for a second, because it wasn't normal for most of the world, and it still isn't in plenty of countries today.<br/><br/>Beyond the symbolism at the top, I think about the stipend programs that kept girls like my sister in secondary school instead of being married off early, something that was genuinely common in rural areas a generation ago. I think about the female quota seats in parliament, imperfect as that system is, and the number of women now running small businesses with support from microcredit and digital banking access that simply didn't exist for my mother's generation.<br/><br/>None of this means everything is solved. Violence against women is still a serious problem here, and I won't pretend otherwise. But I don't think it's a coincidence that so much of the policy infrastructure supporting girls' education and women's economic participation got built during a period when a woman was setting the government's priorities. That's not nothing, and I don't think we should let ourselves forget it.",
+    "imageUrl": "/uploads/womens-day-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-03-08T00:00:00.000Z",
+    "updatedAt": "2023-03-08T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4033",
+    "title": "Digitizing Land Records: The Fight Against Bureaucratic Corruption at the Source",
+    "slug": "digitizing-land-records-corruption-source",
+    "excerpt": "Land offices have long been one of the most corruption-prone points of contact between ordinary citizens and the state. Digitizing the records behind them was an attempt to fix the problem at its root.",
+    "content": "If you ask people here to name the single most corruption-prone interaction they have with government bureaucracy, land records and mutation offices come up more often than almost anything else. Transferring or registering land historically required navigating a paper-based system riddled with opportunities for officials to demand informal payments at nearly every step, delays, missing files, and discretionary decisions that could be resolved a lot faster with the right bribe.<br/><br/>The push to digitize land records, mutation applications, and rent payments through online systems was aimed directly at that specific point of friction, reducing the number of in-person visits required and the discretionary power any single official had over a routine transaction. Where it's worked well, the difference has been significant, mutation processes that used to take months and multiple bribes can now, in better-functioning districts, be completed online in a fraction of the time.<br/><br/>I think it's important to be honest that digitization alone doesn't eliminate corruption if it isn't paired with real enforcement and consistent implementation across every district office. In practice, rollout quality has varied a lot, some upazilas have genuinely modernized their processes, while others have seen the old informal payment culture simply migrate to new points of friction, assistance with navigating the digital system itself becoming the new thing officials or intermediaries charge for.<br/><br/>I don't think this is a finished project, and I'd want to see far more rigorous, district-by-district auditing of whether the promised reduction in corruption is actually showing up in practice rather than just in the existence of a new online portal. But the underlying strategy, removing discretionary human bottlenecks from a notoriously corrupt process, is the right one, even if execution has lagged the ambition in a lot of places.",
+    "imageUrl": "/uploads/land-records-digitization-bangladesh.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-04-05T00:00:00.000Z",
+    "updatedAt": "2023-04-05T00:00:00.000Z"
+  },
+  {
+    "id": "1f5b8d3a-9e42-4c67-8b3a-5d1c9f2e6a15",
+    "title": "The Garment Sector Isn't Perfect, But Pretending Nothing Changed Since Rana Plaza Isn't Honest Either",
+    "slug": "garment-sector-changed-since-rana-plaza",
+    "excerpt": "A decade after the Rana Plaza disaster, factory conditions and wages have improved substantially, even if the work is far from done.",
+    "content": "I have a cousin who works in a garment factory in Gazipur, and I remember the year Rana Plaza collapsed, when her mother didn't sleep for two days trying to reach her because the phone lines were jammed with panicked families trying to find their daughters, sisters, and wives who worked in similar buildings.<br/><br/>That tragedy forced real accountability, however overdue. Building safety inspections became mandatory and were actually enforced through the Accord and Alliance frameworks that the government worked with international buyers to implement. Minimum wage boards raised base pay multiple times since, including significant increases this government approved even when factory owners pushed back hard against them. My cousin's factory now has functioning fire exits and a safety committee that didn't exist a decade ago.<br/><br/>I won't pretend everything is fixed. Wages are still low by any humane standard, and enforcement varies a lot between factories. But I get frustrated when foreign commentary treats this industry as though nothing has changed since 2013, when the reality is a lot of hard, contested policy work happened in between, work that this government had to push through against real resistance from factory owners who are a powerful lobby in this country.",
+    "imageUrl": "/uploads/garment-sector-reform-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-04-24T00:00:00.000Z",
+    "updatedAt": "2023-04-24T00:00:00.000Z"
+  },
+  {
+    "id": "7c1e4a9b-5d28-4f36-9c2a-1e8b6d3f5a14",
+    "title": "The Remittance Senders Nobody Thanks Enough",
+    "slug": "remittance-senders-nobody-thanks-enough",
+    "excerpt": "Millions of Bangladeshi workers abroad keep this economy running, and government policy finally started treating them like it.",
+    "content": "My brother-in-law spent six years working construction in Qatar, sending money home every month that paid for my niece's school fees, medical bills for his parents, and eventually a small plot of land back in Comilla. He's one of millions of expatriate workers whose remittances have quietly been one of the most stable pillars of this economy for years.<br/><br/>For a long time, workers like him dealt with predatory hundi networks skimming money off transfers, minimal government support if something went wrong abroad, and little recognition for what they contributed. That shifted with policy changes: a 2 percent cash incentive on remittances sent through official banking channels, expanded welfare funds for migrant workers in distress, and more accessible mobile banking that let families receive money the same day it was sent instead of waiting weeks.<br/><br/>I think about this every time I hear people talk about Bangladesh's economic growth like it happened in a boardroom somewhere. A huge amount of it happened because men like my brother-in-law spent years away from their families doing hard, often thankless labor abroad, and a government that finally built the financial infrastructure to make sure more of that money actually reached home instead of disappearing into informal channels.",
+    "imageUrl": "/uploads/remittance-workers-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-05-18T00:00:00.000Z",
+    "updatedAt": "2023-05-18T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4034",
+    "title": "Solar Home Systems and Rural Electrification's Off-Grid Chapter",
+    "slug": "solar-home-systems-off-grid-electrification",
+    "excerpt": "Before the national grid reached the country's most remote char islands and haor areas, millions of households got their first electricity from small solar home systems financed through a genuinely innovative microcredit model.",
+    "content": "I've written before about rural electrification through grid expansion, but there's a parallel story that deserves its own post, the millions of households, particularly in remote char river islands and haor wetland areas the national grid was slowest to reach, that got their first access to electricity through small, individually financed solar home systems rather than a grid connection at all.<br/><br/>What made this program notable wasn't just the technology, small solar panels paired with batteries were hardly a Bangladesh-specific invention, it was the financing model built around it. Microfinance institutions, working alongside a state-backed infrastructure finance agency, developed installment payment plans that let households too poor to pay upfront for a solar system spread the cost over several years, making basic electricity access affordable to households that would otherwise have waited years longer for a grid connection to physically reach them. At its peak, this became one of the largest off-grid solar programs anywhere in the world by number of installed systems.<br/><br/>I think it's worth being honest that this program's role has shifted as national grid coverage has expanded to reach most of the country. Solar home systems were the right solution for households facing years of realistic waiting time before grid access, but as the grid has caught up in a lot of these areas, some solar systems have effectively been superseded, and battery disposal and system maintenance in areas the microfinance servicing network struggled to sustain long-term have become newer, less discussed problems.<br/><br/>Even with those caveats, I think this program deserves real credit as an example of financial innovation solving an infrastructure gap faster than physical grid construction alone could have managed, and it gave millions of households years of electricity access they'd otherwise have gone without.",
+    "imageUrl": "/uploads/solar-home-systems-rural-bangladesh.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-06-03T00:00:00.000Z",
+    "updatedAt": "2023-06-03T00:00:00.000Z"
+  },
+  {
+    "id": "d9c4a7e2-6b31-4f58-9a2d-7c1e5b8f3a05",
+    "title": "The Rohingya Crisis: Carrying a Burden Most of the World Looked Away From",
+    "slug": "rohingya-crisis-burden-world-looked-away",
+    "excerpt": "Bangladesh has hosted over a million refugees for years with barely any support from wealthier nations, and I think that story deserves more attention than it gets.",
+    "content": "I visited a relief distribution point near Cox's Bazar a few years back for work, and what struck me wasn't the scale, though the scale is genuinely overwhelming, a sea of shelters stretching further than I could see. What struck me was how little the rest of the world seemed to actually be contributing to a crisis Bangladesh had almost entirely absorbed on its own.<br/><br/>When the Myanmar military's campaign against Rohingya Muslims sent hundreds of thousands fleeing across the border in 2017, this government made the decision to open that border rather than close it, at real cost to local resources, local land, and local patience, especially in an already densely populated corner of the country. Years later, well over a million refugees are still here, still largely dependent on Bangladeshi hospitality and international aid that has steadily dwindled as global attention moved elsewhere.<br/><br/>I get frustrated when I see criticism of this government's handling of the situation from commentators who never mention that wealthy nations pledged far more resettlement and funding than they ever delivered. Sheikh Hasina has repeatedly pushed for repatriation talks with Myanmar and for greater international burden-sharing at the UN. It hasn't produced a resolution yet, because this was never a problem Bangladesh alone could solve. But I don't think the country that actually took people in gets nearly enough credit for it.",
+    "imageUrl": "/uploads/rohingya-crisis-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-06-20T00:00:00.000Z",
+    "updatedAt": "2023-06-20T00:00:00.000Z"
+  },
+  {
+    "id": "5b8e3d1f-2a67-4c94-8b1e-6d3a9f5c2b06",
+    "title": "The Community Clinic Near My Village Changed What Healthcare Means for Us",
+    "slug": "community-clinic-changed-healthcare",
+    "excerpt": "A small clinic building might not seem like a big deal until you've watched what it meant for a village that used to have no healthcare access at all.",
+    "content": "There's a small community clinic about a fifteen minute walk from my ancestral village in Pabna. It's not fancy, a modest building, a couple of staff, basic medicines. But before it existed, the nearest healthcare option for common illnesses was a two-hour trip to the district town, which for someone with a fever, a pregnant woman close to term, or an elderly relative with chest pain, could mean the difference between recovery and tragedy.<br/><br/>These community clinics were built by the thousands across rural Bangladesh under this government's health policy, designed specifically to put basic primary care within walking distance of people who had never had it. My aunt delivered her second child with support from a trained community health worker connected to that clinic, something that simply wasn't an option when she had her first child years earlier.<br/><br/>I know the healthcare system here still has enormous gaps, and I'm not going to sit here and claim otherwise. Specialist care, hospital capacity in emergencies, all of that needs serious work. But primary care access for rural communities is meaningfully different than it was fifteen years ago, and I think that shift deserves to be part of how this government's legacy gets remembered, even by people who are otherwise skeptical of it.",
+    "imageUrl": "/uploads/community-clinic-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-08-01T00:00:00.000Z",
+    "updatedAt": "2023-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4036",
+    "title": "Hazrat Shahjalal Airport's Third Terminal: More Than Just More Space",
+    "slug": "shahjalal-airport-third-terminal",
+    "excerpt": "Dhaka's international airport opened a new, architecturally striking third terminal in 2023. The bigger question is whether it fixes the deeper problems the aviation sector has struggled with for years.",
+    "content": "Hazrat Shahjalal International Airport's new third terminal, designed by an internationally recognized architect known for Kuala Lumpur's airport, opened in 2023 with a striking design and a substantial jump in passenger handling capacity that the old facility had badly needed for years, with the existing terminals routinely operating well beyond their original design capacity during peak travel periods.<br/><br/>I think the more important question, though, is whether a new terminal building actually fixes the deeper problems that have plagued Bangladesh's aviation sector for years, chronic delays, cargo handling bottlenecks that have periodically triggered concerns from international aviation security bodies, and persistent operational and financial difficulties at the state-owned national carrier. A larger, more modern building addresses the physical capacity constraint, but it doesn't automatically fix the operational and management culture issues that have been raised in aviation industry reviews for years.<br/><br/>I want to be fair here, some of these underlying problems predate this specific terminal project by decades and reflect structural issues in how state-owned aviation and airport authorities have historically been run, not something a single infrastructure investment could reasonably be expected to solve on its own. Expecting a new terminal to fix airline management culture would be setting an unfair bar.<br/><br/>Still, I think it's worth naming that the harder work, cargo security certification, national carrier profitability, ground handling efficiency, remains at least partly unfinished even with an impressive new terminal now open. A country positioning itself as a growing hub for both tourism and its export economy needs an aviation sector that works reliably end to end, not just an impressive arrivals hall.",
+    "imageUrl": "/uploads/shahjalal-airport-third-terminal-dhaka.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-10-07T00:00:00.000Z",
+    "updatedAt": "2023-10-07T00:00:00.000Z"
+  },
+  {
+    "id": "6d2a9c4e-3f81-4b57-9c2a-8e1b5d3f7a16",
+    "title": "Under the River in Six Minutes: The Bangabandhu Tunnel Opens",
+    "slug": "under-river-six-minutes-bangabandhu-tunnel",
+    "excerpt": "South Asia's first underwater road tunnel just opened under the Karnaphuli, and it says something about the region's ambitions right now.",
+    "content": "Chattogram has always felt divided by the Karnaphuli River in a way that shaped the whole city's growth, with the east bank developing while the south bank lagged behind, connected only by a congested bridge. That changed this week when the Bangabandhu Tunnel opened, letting vehicles cross under the river in about six minutes instead of the long way around.<br/><br/>This is the first tunnel of its kind in South Asia, and I don't think that detail is a small one. It signals a level of infrastructure ambition that this country wasn't associated with a couple of decades ago, when the conversation about Bangladesh internationally was almost entirely about poverty and natural disasters rather than engineering achievements.<br/><br/>I have friends in Chattogram who are already talking about industrial development on the south bank that simply wasn't viable before this tunnel existed, factories and housing that can now access the port city's economy in ways they couldn't when the river was a real barrier rather than a six-minute crossing. Naming it after Bangabandhu feels fitting to me too, connecting a monument to the man who founded this country with a monument to what this country has since managed to build.",
+    "imageUrl": "/uploads/bangabandhu-tunnel-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-10-28T00:00:00.000Z",
+    "updatedAt": "2023-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "4f7b1d3e-8a92-4c56-b7e3-2d9a5c8f1b55",
+    "title": "When Arson Becomes Politics: The Opposition's Familiar Playbook",
+    "slug": "when-arson-becomes-politics-opposition-playbook",
+    "excerpt": "The blockades and bus burnings ahead of this election season aren't new tactics, and it's worth asking who actually pays the price for them.",
+    "content": "A bus caught fire near my neighborhood last week. A driver was in the hospital with burns for days. This wasn't an accident, and everyone on my street knew exactly what it was the moment we heard the news: another petrol bomb attack tied to a hartal, called by people who won't be the ones stuck in traffic when it happens or the ones scarred by it.<br/><br/>I've lived through enough of these election cycles to recognize the pattern. Blockade called, buses set alight, ordinary commuters and transport workers pay the price while the people calling for the blockade stay comfortably out of harm's way. It happened in 2013, it's happening again now, and somehow the international commentary always seems to focus on the government's response rather than on who lit the match in the first place.<br/><br/>I don't think demanding accountability from law enforcement is unreasonable, and I'm not going to pretend every action taken by every officer over the years has been perfect. But there's a difference between a government maintaining order against organized arson campaigns and a government suppressing peaceful dissent, and I think that distinction gets flattened way too often in how this gets covered.<br/><br/>The people who actually get hurt in these blockades are rarely the politicians. They're bus drivers, night-shift workers, students trying to get to exams. I wish more of the coverage remembered that.",
+    "imageUrl": "/uploads/blockade-violence-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-10-30T00:00:00.000Z",
+    "updatedAt": "2023-10-30T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4035",
+    "title": "The Akhaura-Agartala Rail Link and a Small Piece of Regional Connectivity",
+    "slug": "akhaura-agartala-rail-link-connectivity",
+    "excerpt": "A short cross-border rail line connecting Bangladesh to India's northeastern state of Tripura opened in 2023. It's a small piece of infrastructure that says a lot about the regional diplomacy of a different era.",
+    "content": "The Akhaura-Agartala rail link, a relatively short cross-border line connecting Bangladesh's eastern rail network to Tripura in India's northeast, opened in 2023 after years of construction, and I think it's worth writing about precisely because of how modest it looks on a map next to something like the Padma Bridge, while carrying real strategic and diplomatic significance.<br/><br/>India's northeastern states have historically been geographically isolated from the rest of the country, connected to mainland India only through a narrow corridor, and rail access through Bangladesh offers a substantially shorter route for both passenger travel and freight movement between Tripura and the port of Chattogram, rather than the long detour through India's own territory that was previously required. For Bangladesh, hosting this kind of transit infrastructure represented both a genuine regional cooperation gesture and a source of transit revenue and diplomatic goodwill.<br/><br/>I think it's worth naming plainly, looking back at this project now, how much it reflected a specific era's approach to India relations, one built on deepening physical and economic interconnection as a foundation for the relationship, rather than treating it as a lower priority. I don't think that approach was naive, cross-border infrastructure like this is hard to build and harder to reverse once it exists, which is part of why I think it mattered as a long-term investment in the relationship regardless of which government was in office in either country at a given moment.<br/><br/>Small pieces of infrastructure like this rarely get remembered the way bridges and airports do. But I think this rail link is a useful reminder of what sustained, unglamorous regional diplomacy actually looks like when it's working, one link, one agreement, one border crossing at a time.",
+    "imageUrl": "/uploads/akhaura-agartala-rail-link-bangladesh-india.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-11-01T00:00:00.000Z",
+    "updatedAt": "2023-11-01T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4037",
+    "title": "Cox's Bazar Rail Link: Connecting the Tourist Coast by Train",
+    "slug": "coxs-bazar-rail-link-tourist-coast",
+    "excerpt": "For the first time, Bangladesh's most famous beach town is connected to the national rail network. It's a tourism story, an economic story, and, quietly, a Rohingya camp logistics story all at once.",
+    "content": "Cox's Bazar, home to the world's longest natural sea beach and, more recently, the world's largest refugee settlement, got its first-ever rail connection to the rest of the country in 2023, a genuinely significant piece of infrastructure that had been discussed for decades without ever actually breaking ground until relatively recently.<br/><br/>The tourism case for this line is fairly obvious, Cox's Bazar has long been constrained as a destination by the difficulty of getting there, a long, often congested road trip or a limited number of flights, and rail access opens up more affordable, higher-capacity travel for domestic tourists who make up the overwhelming majority of the area's visitor economy. That matters for a coastal economy that's struggled to translate natural beauty into the kind of sustained tourism revenue seen in comparable coastal destinations elsewhere in the region.<br/><br/>What gets discussed less is the line's logistics role for humanitarian operations. I've written elsewhere about Bangladesh hosting close to a million Rohingya refugees in camps concentrated in this same district, and better transport infrastructure into the area has real implications for the logistics of aid delivery and administrative access to the camps, alongside the more visible tourism benefits.<br/><br/>I think it's fair to flag the environmental concerns that came up during construction, the rail line passes near forest areas that form part of an elephant corridor, and conservationists raised legitimate concerns about wildlife disruption that I don't think got fully resolved before construction proceeded. Infrastructure and conservation don't always trade off cleanly, and I think this project is a reminder that development wins don't come entirely without cost.",
+    "imageUrl": "/uploads/coxs-bazar-rail-link-bangladesh.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-11-11T00:00:00.000Z",
+    "updatedAt": "2023-11-11T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4039",
+    "title": "The 2023 Minimum Wage Revision and the Garment Workers Who Weren't Satisfied",
+    "slug": "2023-minimum-wage-revision-garment-workers",
+    "excerpt": "The government-appointed wage board announced a significant increase to the garment sector minimum wage in late 2023. For a lot of workers, and I think they had a real point, it still wasn't enough.",
+    "content": "In November 2023, the wage board responsible for setting minimum pay in the garment sector announced a significant increase to the monthly minimum wage, a substantial percentage jump from the previous rate that had gone unchanged for years despite persistent inflation eating into real purchasing power. On paper, that's a meaningful policy win worth acknowledging.<br/><br/>What followed wasn't celebration, it was some of the most sustained labor unrest the sector had seen in years. A large share of garment workers and their union representatives argued the new rate, even after the increase, still fell well short of what they'd originally demanded and well short of what was actually needed to keep pace with food and housing cost inflation that had been running hot for over a year by that point. Protests spread across several industrial areas, and I think it's important to be honest that the response from law enforcement in some of these protests resulted in worker deaths, a genuinely serious outcome that shouldn't be minimized or treated as an unfortunate footnote to an otherwise positive wage story.<br/><br/>I don't think the government's position here was purely cynical, wage increases have real cost implications for factory competitiveness in a global market where buyers can and do shift orders to lower-cost countries if Bangladeshi manufacturing costs rise too fast. That's a genuine economic constraint, not just an excuse. But I also don't think that constraint should have translated into the level of force used against workers protesting a wage they had legitimate reasons to see as inadequate.<br/><br/>I think this episode deserves to be remembered honestly, as both a real policy step forward and a moment where the response to workers pushing back on its limits fell short of how a government I otherwise support should have handled it.",
+    "imageUrl": "/uploads/garment-worker-wage-protest-bangladesh-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-11-16T00:00:00.000Z",
+    "updatedAt": "2023-11-16T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4038",
+    "title": "The Padma Bridge Rail Link: The Quieter Follow-Up Project",
+    "slug": "padma-bridge-rail-link-quiet-followup",
+    "excerpt": "The Padma Bridge itself got all the attention. The rail link that later opened alongside it, connecting the southwestern region to the national rail network for the first time, deserves its own recognition.",
+    "content": "I've written a lot about the Padma Bridge as a road crossing and what it meant for the southwestern districts it connected to the rest of the country. What gets less attention is the rail component, a dedicated rail link running alongside the road deck that opened to service some time after the bridge itself, finally connecting a large southwestern region to the national rail network for the first time in the country's history.<br/><br/>That's worth sitting with for a moment. An entire region, including a major city, had never had direct rail access to the rest of the country before this project, meaning all rail freight and passenger travel had to route around through longer, less efficient paths or rely entirely on road and river transport. Direct rail connectivity changes the economics of moving both goods and people in and out of that region in ways that a road bridge alone, as significant as it was, doesn't fully capture on its own.<br/><br/>I think the rail link's quieter rollout compared to the bridge's high-profile opening says something about how infrastructure narratives get built. A single dramatic ribbon-cutting for a bridge makes for better political theater than a rail service gradually coming online, even when the rail component arguably extends the bridge's economic benefit to a much wider set of communities along the new line rather than just the districts sitting directly at the crossing point.<br/><br/>I don't think this diminishes the bridge's significance at all, I think it's a reminder that the full value of a mega-project like this often depends on the less glamorous follow-up infrastructure that extends its reach, and that follow-through deserves recognition even when it doesn't come with the same fanfare as the original opening.",
+    "imageUrl": "/uploads/padma-bridge-rail-link-bangladesh.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-12-01T00:00:00.000Z",
+    "updatedAt": "2023-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "3e8b5c1a-7d46-4f29-8b3a-1c6d9e2f4a17",
+    "title": "The Union Parishad Chairman Who Actually Shows Up",
+    "slug": "union-parishad-chairman-who-shows-up",
+    "excerpt": "Local government rarely makes the news, but grassroots development in villages like mine depends entirely on it working reasonably well.",
+    "content": "Our Union Parishad chairman is someone I've known my whole life, a man who used to run a small shop before getting into local politics. He's not a national figure and never will be, but he's the person who actually got our village's road repaved, who pushed the district office for months to get a new tube well installed near the primary school, who shows up at village meetings even when it's inconvenient for him.<br/><br/>I bring this up because I think national politics gets all the attention, but so much of what actually changes daily life in rural Bangladesh happens at this level, through local government structures that this party has invested in over the years, channeling development funds down to the union level in ways that let local leaders actually respond to what their communities need rather than waiting on decisions made entirely in Dhaka.<br/><br/>It's not a flawless system. Local politics has its own problems with favoritism and small-scale corruption, and I won't pretend our chairman is some saint. But the basic structure of accountable, resourced local government reaching down to the village level is something worth defending, especially now, when so much of the national conversation is about institutions breaking down rather than institutions that are quietly still doing their job.",
+    "imageUrl": "/uploads/union-parishad-2023.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2023-12-05T00:00:00.000Z",
+    "updatedAt": "2023-12-05T00:00:00.000Z"
+  },
+  {
+    "id": "e2c6a4b8-3f17-4d59-9a2e-7c1b5d8f3a66",
+    "title": "January 2024: A Mandate for Continuity",
+    "slug": "january-2024-mandate-for-continuity",
+    "excerpt": "The election is over, and whatever the boycott theatrics suggested, millions of people still turned out to vote for a track record they trusted.",
+    "content": "I voted early in the morning to beat the crowds, though honestly the lines weren't as bad as the foreign press seemed to want everyone to believe they'd be. My polling station in Dhanmondi was calm, organized, and by evening the results were exactly what most of my neighbors expected.<br/><br/>A lot of ink has been spilled about the BNP's decision to boycott this election rather than contest it. I understand why some people frame that as evidence of an unfair playing field, but I'd frame it differently. A party that sits out an election because it doesn't think it can win isn't proving the system is broken, it's making a political calculation and then blaming everyone else when that calculation costs them relevance. Nobody forced them to stay home.<br/><br/>What I saw at the ballot box was people voting on a record: roads, bridges, electricity that actually stays on, an economy that, whatever its bumps, has lifted a lot of families out of the kind of poverty my parents' generation lived through. That's not nothing. That's the kind of continuity people vote for when the alternative is uncertainty and a party whose most recent legacy in power was remembered for corruption scandals and arson politics.<br/><br/>I know not everyone will agree with me on this, and that's fine. But I trust what I saw with my own eyes more than what I read in foreign editorials written by people who've never had to build a bridge or keep the lights on for 170 million people.",
+    "imageUrl": "/uploads/election-january-2024.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2024-01-08T00:00:00.000Z",
+    "updatedAt": "2024-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4040",
+    "title": "Betting on a Homegrown Tech Hub: The Software Technology Park Experiment",
+    "slug": "software-technology-park-homegrown-tech-hub",
+    "excerpt": "Purpose-built IT parks with tax incentives and dedicated infrastructure were meant to concentrate Bangladesh's tech industry the way similar parks did in India and Vietnam. The results so far are more mixed than the pitch decks suggested.",
+    "content": "I've written before about the freelance and IT outsourcing boom that's grown fairly organically across the country. The government's parallel bet has been more deliberate and top-down, purpose-built software technology parks offering tax holidays, reliable power and internet infrastructure, and subsidized office space meant to concentrate the growing tech sector into hubs the way similar parks helped catalyze IT industries in India and Vietnam.<br/><br/>The pitch behind this strategy makes sense on paper. Concentrated infrastructure investment is more efficient than trying to guarantee reliable power and connectivity everywhere at once, and clustering companies together can generate the kind of talent-sharing and informal knowledge spillover that made hubs like Bangalore so successful. Several of these parks, across multiple cities beyond just Dhaka, have opened with genuinely modern facilities built specifically for tech company needs.<br/><br/>Where I think the honest assessment gets more complicated is occupancy and actual economic impact relative to the investment made. Several of these parks have filled more slowly than initial projections suggested, and some tenant companies have been smaller, more domestically focused firms rather than the large-scale export-oriented software companies the parks were originally designed to attract, and to retain against the pull of remote work for overseas clients or outright emigration for engineers chasing higher salaries abroad.<br/><br/>I don't think this means the strategy was wrong, infrastructure investments like this often take longer to pay off than the initial announcements suggest, and some of these parks may still mature into the hubs they were designed to be. But I think it's honest to say the tech park model has underdelivered relative to its own stated ambitions so far, and I'd want to see a harder look at why before more capital gets committed to expanding it further.",
+    "imageUrl": "/uploads/software-technology-park-bangladesh-tech.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2024-03-15T00:00:00.000Z",
+    "updatedAt": "2024-03-15T00:00:00.000Z"
+  },
+  {
+    "id": "8d2f6c1a-4b93-4e57-9c2a-1f8b5d3e6c07",
+    "title": "Independence Day 2024: A Nation Feeding Itself",
+    "slug": "independence-day-2024-nation-feeding-itself",
+    "excerpt": "One of the quieter achievements of the last decade and a half is something as basic as this country largely being able to feed its own population.",
+    "content": "My father remembers rationing cards from his childhood, remembers a famine in 1974 that killed an unknowable number of people in the years right after independence, remembers a country that international observers genuinely doubted could ever feed itself. That memory shapes how he sees food security today, and honestly, it's shaped how I see it too, secondhand.<br/><br/>Bangladesh now produces enough rice most years to be close to self-sufficient, something that would have sounded like fantasy to my father's generation. Investment in high-yield seed varieties, irrigation expansion, and agricultural extension services reaching small farmers directly all played a role in that shift, and a lot of that policy groundwork was laid and sustained under this government's long tenure.<br/><br/>On Independence Day, I think it's worth remembering that the most basic promise any government can make to its people is that they won't go hungry, and for most of my lifetime, that promise has largely held in a country that once couldn't make it at all. Whatever else people want to argue about this government's record, I don't think that achievement should get erased from the story.",
+    "imageUrl": "/uploads/independence-day-2024.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2024-03-26T00:00:00.000Z",
+    "updatedAt": "2024-03-26T00:00:00.000Z"
+  },
+  {
+    "id": "8f2c5a7b-4e19-4d63-9a2c-7b1e5d8f3a18",
+    "title": "Bangladesh and India: A Complicated Relationship That Still Delivered Results",
+    "slug": "bangladesh-india-complicated-relationship-results",
+    "excerpt": "The relationship with India under this government wasn't without friction, but it produced real, tangible gains that get overlooked in the current political mood.",
+    "content": "I'll admit the relationship between Dhaka and Delhi has never been simple, and issues like the unresolved Teesta water-sharing agreement have been a genuine source of frustration for farmers in northern Bangladesh for years. I'm not going to pretend that's been fully resolved, because it hasn't.<br/><br/>But I also think it's worth remembering what this relationship did produce: the Land Boundary Agreement that finally resolved decades of disputed enclaves along the border, expanded rail and river connectivity that opened up new trade routes, and Indian lines of credit that helped finance infrastructure projects here. Managing a relationship with a much larger neighbor is never going to be a clean win on every front, and any government that tells you otherwise is lying to you.<br/><br/>What I appreciated about how this government approached it was a kind of patient, transactional diplomacy, pushing for gains where possible while not pretending the relationship was perfect. I think that's a more honest way to handle regional politics than the current mood, where India relations have become a purely negative talking point with little acknowledgment of what pragmatic engagement actually delivered over the years.",
+    "imageUrl": "/uploads/bangladesh-india-relations-2024.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2024-05-10T00:00:00.000Z",
+    "updatedAt": "2024-05-10T00:00:00.000Z"
+  },
+  {
+    "id": "8a3d7c1e-5b92-4f46-b8d3-1e7a4c9b6d77",
+    "title": "Behind the Quota Reform Protests: What Got Lost in the Noise",
+    "slug": "behind-quota-reform-protests-what-got-lost",
+    "excerpt": "What started as a legitimate conversation about civil service quotas turned into something much bigger and much uglier, and I don't think that shift was accidental.",
+    "content": "I want to be honest about something: the original demand behind these protests wasn't unreasonable. Students asking for quota reform in government job recruitment is a fair conversation to have, and the courts moved on it quickly, reducing the quota system within weeks of the movement gaining traction. That part of the story rarely gets told anymore.<br/><br/>What I watched happen after that initial demand is what troubles me. The movement stopped being about quotas almost overnight and became something else entirely, amplified by coordinated disinformation online, infiltrated by groups with a much older grudge against this government, groups who have wanted an opening like this for years. Suddenly it wasn't students negotiating anymore, it was something far more chaotic, with agitators who had nothing to do with civil service exams setting fire to government buildings and metro stations, the very infrastructure I wrote about being so proud of not long ago.<br/><br/>I lost sleep over the images coming out of those weeks, the young lives lost on every side of this, students, police, bystanders. I won't pretend that wasn't devastating to watch unfold in my own country. But I also can't pretend a genuine student movement doesn't get hijacked sometimes by people with very different goals, using real grievances as cover for something much less innocent.<br/><br/>I think history will need more time and more honest distance to sort out what actually happened during those weeks than any of us have right now, in the middle of it.",
+    "imageUrl": "/uploads/quota-reform-protests-2024.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2024-07-25T00:00:00.000Z",
+    "updatedAt": "2024-07-25T00:00:00.000Z"
+  },
+  {
+    "id": "5c9e2a4b-7d31-4f68-8a2c-9b6d3e1f7c88",
+    "title": "August 2024: When the Rules Changed Overnight",
+    "slug": "august-2024-when-rules-changed-overnight",
+    "excerpt": "A government fell in a matter of days, outside any constitutional process, and I don't think enough people have sat with what that actually means for this country's future.",
+    "content": "I'm still processing what happened that first week of August. One day there was a functioning, elected government, however imperfect, and days later, an interim administration was installed with no election behind it at all, under conditions none of us would call normal by any definition.<br/><br/>What haunts me most from that period isn't just the change of power itself. It's what came after it, quietly, while the world's attention moved on to the next headline. Awami League offices burned. Longtime party workers, many of them ordinary people with no power at all, driven from their homes or worse. Hindu families, who have been loyal supporters of this party for generations, targeted in attacks on their temples and businesses in the chaos that followed. None of that made the same front pages that the earlier protests did.<br/><br/>I keep asking myself how a transition that so many people abroad praised as some kind of democratic renewal could look, up close, so much like mob rule against anyone associated with the party that had governed for fifteen years. Institutions that took decades to build were dismantled in a matter of weeks, with no clear plan for what would replace them beyond promises.<br/><br/>I don't have a tidy conclusion for this one. I just know that something was lost that week that I don't think we get back easily, and I think we owe it to everyone who suffered on every side of this to keep asking hard questions about how it actually happened, not just accept the version that was easiest to tell afterward.",
+    "imageUrl": "/uploads/august-2024-transition.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2024-08-12T00:00:00.000Z",
+    "updatedAt": "2024-08-12T00:00:00.000Z"
+  },
+  {
+    "id": "2c6a4e8b-9d31-4f75-8b2e-3a1c7d5f9b08",
+    "title": "Writing This From Abroad, Because It Isn't Safe to Write It at Home Right Now",
+    "slug": "writing-from-abroad-not-safe-at-home",
+    "excerpt": "Since the fall of the government, a lot of Awami League supporters and their families have had to make hard choices about staying quiet or leaving. This is what that feels like from the inside.",
+    "content": "I have relatives who left the country within weeks of August, not because they were politicians or officials, just because their surname and their known family history with this party made them targets in neighborhoods where mobs went looking for anyone associated with the old government. I've heard secondhand accounts of homes ransacked, of businesses looted, of people advised by their own neighbors to leave for their safety.<br/><br/>I won't pretend I have a full picture of everything that happened during those chaotic weeks, on any side of it. But I know what it's done to the people I love: a kind of quiet fear that colors every phone call home, a hesitation before posting anything online, a sense that an entire political identity has become something you whisper about rather than something you can say out loud in your own country.<br/><br/>I write this blog partly because so many of us feel like we can't speak freely at home right now, and partly because I refuse to let that silence become permanent. Whatever comes next politically, I don't think erasing an entire community of supporters from public life, through fear if not through law, is the kind of democratic renewal anyone should be proud of.",
+    "imageUrl": "/uploads/diaspora-reflection-2024.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2024-11-15T00:00:00.000Z",
+    "updatedAt": "2024-11-15T00:00:00.000Z"
+  },
+  {
+    "id": "2e6b8d4a-1c73-4a59-9e2b-5d8f3a7c1b99",
+    "title": "Banned But Not Broken: Awami League's Fight for Political Survival",
+    "slug": "banned-but-not-broken-al-political-survival",
+    "excerpt": "A party that led the fight for this country's independence has now been banned outright, and that should worry anyone who cares about what democracy is supposed to mean.",
+    "content": "I never thought I'd write a sentence like this: the party of Bangabandhu Sheikh Mujibur Rahman, the party that led this nation to independence in 1971, has been formally banned from politics. Sit with that for a second, whatever your politics are.<br/><br/>I'm not naive about the accusations leveled at party leadership over the crackdown during the unrest. I know those are serious matters and I'm not going to pretend I have every answer about what happened behind closed doors during those chaotic weeks. But banning an entire party, one with tens of millions of members and supporters across the country, rather than pursuing accountability through normal legal processes against specific individuals, feels like something else entirely. It feels like erasing an inconvenient opposition rather than delivering justice.<br/><br/>I think about my own family's history with this party, my grandfather who fought in the Liberation War, my mother who grew up under military rule and always said Awami League was the party that gave her the right to vote that meant something. That history doesn't disappear because an interim government issues an order.<br/><br/>Whatever happens next, legally or politically, I don't believe you can erase seventy-five years of a party's roots in this country's soil that easily. Supporters like me aren't going anywhere, even if we have to wait this out quietly for now.",
+    "imageUrl": "/uploads/al-ban-2025.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-05-12T00:00:00.000Z",
+    "updatedAt": "2025-05-12T00:00:00.000Z"
+  },
+  {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2001",
     "title": "Why I Started Applying the Same Standard of Evidence to Everything",
     "slug": "same-standard-of-evidence-everywhere",
     "excerpt": "I don't buy a used car, take a medication, or trust a stranger's claim without asking for some kind of evidence. At some point I noticed I was making an exception for exactly one category of belief.",
     "content": "I spent a long time not noticing the inconsistency, and once I did, I couldn't stop seeing it. In pretty much every part of my life, I apply some basic evidentiary standard before I accept a claim as true. I check reviews before buying something expensive. I ask a doctor what a diagnosis is based on. I don't believe a rumor just because a lot of people are repeating it confidently.<br/><br/>Religious claims were the one place I'd never actually applied that same filter. I'd absorbed them early, before I had the tools to question anything, and by the time I did have those tools, the claims felt too foundational to poke at. Once I finally did ask the question I'd ask of literally any other claim, what's the actual evidence here, testable, independently verifiable, not just internally consistent with itself, I didn't find much to work with.<br/><br/>That's not the same as saying I found proof of absence, and I try to be careful about that distinction. I'm not claiming certainty that no deity exists. I'm saying that when I hold the claim to the standard I hold everything else to, it doesn't clear the bar, and I don't think it's intellectually honest to grade one category of belief on a curve just because it's the one I happened to grow up inside.<br/><br/>That single shift, treating extraordinary claims the same way I treat ordinary ones, is really the whole starting point for everything else I've written or will write on this topic.",
     "imageUrl": "/uploads/evidence-based-thinking-philosophy.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2022-03-11T00:00:00.000Z",
-    "updatedAt": "2022-03-11T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-06-05T00:00:00.000Z",
+    "updatedAt": "2025-06-05T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2002",
@@ -17,9 +402,9 @@
     "excerpt": "An all-powerful, all-knowing, all-loving God and a world full of undeserved suffering are a hard combination to hold at the same time. I tried for years, and eventually stopped trying.",
     "content": "Of all the arguments that get discussed in philosophy of religion classes, the problem of evil is the one that actually mattered to me personally, not as an abstract puzzle but as something that kept surfacing every time I encountered suffering that had no discernible point to it. A child with a terminal illness. A natural disaster that kills people indiscriminately, believers and non-believers, good people and bad people alike, without any apparent pattern of moral consequence.<br/><br/>The standard responses I was offered growing up, free will explains moral evil, a greater plan explains natural evil, suffering builds character, always felt like they were doing more work to protect the premise than to actually engage with the scale of what they were explaining. Free will doesn't explain a child's cancer. A greater plan that requires this much unexplained suffering to unfold is a strange thing to call loving, even if I can't see the plan myself.<br/><br/>I don't think I ever \"solved\" this problem in the sense of finding a satisfying resolution, and I've read enough theodicy to know genuinely brilliant people have spent careers on it without reaching consensus. What I did eventually do was stop forcing myself to accept an answer that didn't actually satisfy me just because walking away from the question felt like the safer, more comfortable option.<br/><br/>For me, the honest conclusion wasn't a triumphant argument, it was just admitting that the premises don't fit together for me, and living with that conclusion rather than performing a resolution I didn't actually feel.",
     "imageUrl": "/uploads/philosophy-suffering-theodicy.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2022-07-19T00:00:00.000Z",
-    "updatedAt": "2022-07-19T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-06-26T00:00:00.000Z",
+    "updatedAt": "2025-06-26T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2003",
@@ -28,10 +413,11 @@
     "excerpt": "Studying religious texts the way historians study any other ancient document, looking at authorship, context, and internal consistency, was a quieter turning point than I expected.",
     "content": "At some point I started reading religious texts the same way I'd been trained to read any other historical document in school, asking who likely wrote this, when, for what audience, and how the different sections relate to each other internally. That's a very different exercise than reading scripture devotional, and it produced a very different picture than the one I'd absorbed growing up.<br/><br/>What struck me most wasn't any single dramatic contradiction, it was the accumulation of smaller things. Different accounts of the same events that don't fully agree on details. Moral instructions that reflect the specific social conditions of the time and place they were written far more than they reflect anything I'd call a timeless ethical framework. Editorial layers where you can see later authors clearly responding to, and sometimes revising, earlier material.<br/><br/>None of that is a secret or a fringe discovery, it's the mainstream conclusion of historical-critical scholarship across multiple religious traditions, not just one. What surprised me was how little of that scholarship had ever been mentioned in any of the religious education I'd received growing up, where texts were generally presented as a seamless, internally consistent whole rather than the layered historical documents scholars actually treat them as.<br/><br/>I don't think reading a text critically automatically means rejecting everything in it, plenty of ancient literature contains real wisdom without being literally true or divinely authored. But once I could see these texts as human documents from a specific historical moment rather than as something outside of history altogether, I couldn't really go back to reading them the old way.",
     "imageUrl": "/uploads/religious-texts-historical-scholarship.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2022-11-14T00:00:00.000Z",
-    "updatedAt": "2022-11-14T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-07-18T00:00:00.000Z",
+    "updatedAt": "2025-07-18T00:00:00.000Z"
   },
+
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2004",
     "title": "What Evolution, the Big Bang, and Neuroscience Actually Explained For Me",
@@ -39,9 +425,31 @@
     "excerpt": "The gaps that religion once filled for me, where life came from, how the universe began, what consciousness actually is, have real, if incomplete, scientific explanations now. That mattered more than I expected.",
     "content": "There's a specific kind of argument I used to find persuasive that I don't anymore, the idea that the sheer complexity of life, or the fine-tuned conditions of the universe, or the mystery of subjective experience, points toward a designer because nothing else could explain it. What changed wasn't that science suddenly explained everything, it hasn't, there are still real open questions. What changed is how much it does explain, and how consistently the trend has run in one direction over time.<br/><br/>Evolutionary biology gives a genuinely detailed, evidence-backed account of how complexity can emerge from simpler starting points through selection over long timescales, without needing a designer at any step. Cosmology has pushed the explanatory boundary for the universe's origins back further and further, each time closing another gap that used to be filled with \"and then a creator intervened.\" Neuroscience, while nowhere near a complete theory of consciousness, has tied enough specific mental phenomena to specific physical brain processes that treating the mind as something entirely separate from the body has gotten much harder to justify.<br/><br/>I try to hold this carefully, because \"science hasn't explained everything yet\" isn't itself evidence for a supernatural explanation, that's just a gap, and gaps get filled by future research more often than by revelation. What moved me wasn't any single discovery, it was noticing that every gap religion once occupied has, over time, been explained by something else, and none of those explanations required reintroducing the supernatural once they were found.",
     "imageUrl": "/uploads/evolution-cosmology-neuroscience.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2023-02-08T00:00:00.000Z",
-    "updatedAt": "2023-02-08T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-08-07T00:00:00.000Z",
+    "updatedAt": "2025-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "5b9d2f6a-1c74-4e38-8b2a-6d3c9f1e5a19",
+    "title": "A Year Into the Interim Government, My Grocery Bill Tells Its Own Story",
+    "slug": "year-into-interim-government-grocery-bill",
+    "excerpt": "Promises of economic stability haven't matched what I'm actually seeing at the market every week since the transition.",
+    "content": "I started keeping a rough tally of my weekly grocery spending out of curiosity more than anything else, and looking back over the past year, the numbers aren't encouraging. Rice, cooking oil, and vegetables have all gotten noticeably more expensive, and the taka's continued slide against the dollar hasn't helped anything that depends on imports, which in this country is a lot.<br/><br/>I try to be fair about this. No government controls global commodity prices entirely, and I said as much back when inflation hit during the war in Ukraine. But I also remember being told, repeatedly, that removing the previous government and its economic team would fix mismanagement and restore investor confidence quickly. A year later, foreign reserves remain under pressure, businesses I know are delaying investment decisions because of continued uncertainty, and ordinary households are absorbing the difference at the market every week.<br/><br/>I don't say this to score cheap political points, genuinely. I say it because I think accountability should apply to whoever is currently in charge, not just to governments that have already left office. If the promise was a better economy, I think it's fair, a year later, to ask where that promise actually stands.",
+    "imageUrl": "/uploads/economy-one-year-interim-2025.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-08-08T00:00:00.000Z",
+    "updatedAt": "2025-08-08T00:00:00.000Z"
+  },
+  {
+    "id": "f4b8d2a6-3e17-4c59-9d2a-8b6c1e4f7a09",
+    "title": "One Year On: The Trial I Don't Believe Was Ever Going to Be Fair",
+    "slug": "one-year-on-trial-not-fair",
+    "excerpt": "A year after the government fell, the legal proceedings against Sheikh Hasina and other AL leaders feel less like justice and more like a foregone conclusion.",
+    "content": "It's been a year now, and I've watched the tribunal proceedings against Sheikh Hasina unfold from a distance, the way I imagine a lot of AL supporters have, with a mix of anger and a resigned sense that the outcome was decided before the first hearing even started.<br/><br/>I'm not going to claim I have full knowledge of every event from those chaotic weeks in July and August. I don't. But I do know that a legal process run by an interim government that came to power specifically because the previous one fell, prosecuting the leader of that previous government in absentia, is not the kind of neutral justice its supporters like to describe it as. It reads, to me and to a lot of people I know, like a political outcome dressed up in legal language.<br/><br/>I think real accountability, if it's needed, requires a process that doesn't already have its verdict baked into who's running it. I don't expect people who wanted this government gone to see it that way, and I'm not going to spend this post trying to convince them. I just want it on record, from someone who lived through this as a supporter, that plenty of us never believed this was really about justice in the first place.",
+    "imageUrl": "/uploads/tribunal-one-year-2025.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-08-20T00:00:00.000Z",
+    "updatedAt": "2025-08-20T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2005",
@@ -50,9 +458,9 @@
     "excerpt": "Financial corruption, cover-ups, and abuse scandals inside religious institutions did more to erode my trust than any philosophical argument ever did.",
     "content": "I want to be honest that this part of my departure from religion wasn't primarily intellectual, it was closer to a slow-building sense of betrayal. Watching one institutional scandal after another surface, cover-ups of abuse, financial misconduct by people who preached humility and stewardship, leaders exempting themselves from the moral standards they enforced on everyone else, did more to loosen my attachment to organized religion than any single philosophical argument managed to.<br/><br/>What made it worse wasn't just that individual people failed, individuals fail inside every kind of institution, that's not unique to religion. It was watching institutional structures actively protect the people responsible, moving them rather than removing them, prioritizing the institution's reputation over the people it had actually harmed. That pattern, repeated across different denominations and different countries, started to look less like isolated bad actors and more like something the institutional structure itself made easier to happen and harder to expose.<br/><br/>I don't think this means every religious community operates this way, plenty of local congregations are made up of genuinely well-meaning people doing real good in their communities, and I try not to flatten that distinction. But my trust in the larger institutional structures claiming moral authority over people's lives took a hit that I never fully recovered from, and once that trust cracked, a lot of other things I'd taken for granted got easier to question too.<br/><br/>Losing faith in an institution isn't the same as losing faith in a belief, but for me, the two ended up more tangled together than I expected them to be.",
     "imageUrl": "/uploads/institutional-trust-religious-scandal.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2023-06-27T00:00:00.000Z",
-    "updatedAt": "2023-06-27T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-08-29T00:00:00.000Z",
+    "updatedAt": "2025-08-29T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2006",
@@ -61,9 +469,9 @@
     "excerpt": "I didn't leave over a single sermon, but the accumulation of political and social positions I found genuinely harmful made staying feel less like faith and more like quiet complicity.",
     "content": "There's a version of religious community that stays out of politics almost entirely, focused on ritual, ethics, and mutual support. That was not really my experience. Over time, I noticed how often specific political and social positions, on women's roles, on LGBTQ+ people, on how different racial or ethnic groups were talked about, got folded into what I was told was simply the faith itself, rather than treated as separable political opinions that happened to be held by people who also had faith.<br/><br/>I want to be fair here: not every religious community holds identical positions on any of this, there's real diversity across denominations and even within them. But in the specific community I was part of, the positions I heard from the pulpit increasingly struck me as exclusionary in ways that didn't line up with the compassion I was also being told was central to the whole belief system. That contradiction became harder to sit with over time, not easier.<br/><br/>At a certain point, staying quiet through sermons I actively disagreed with, on the grounds that this was just doctrine and doctrine wasn't up for debate, started to feel less like devotion and more like a kind of quiet participation in views I didn't actually hold. I don't think that realization by itself made me an atheist, plenty of people separate their politics from their faith without abandoning either. But it was one more thread pulling me away from continuing to treat that specific institutional structure as a moral authority in my life.",
     "imageUrl": "/uploads/religion-politics-social-issues.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2023-10-30T00:00:00.000Z",
-    "updatedAt": "2023-10-30T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-09-19T00:00:00.000Z",
+    "updatedAt": "2025-09-19T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2007",
@@ -72,10 +480,11 @@
     "excerpt": "Somewhere along the way, I noticed that strict adherence to doctrine and genuine compassion for the people in front of me had quietly become two different, sometimes competing, things.",
     "content": "I think the moment that stuck with me most wasn't a big theological argument, it was a small, specific interaction. Someone in my community was going through something genuinely hard, a situation that didn't fit neatly into the moral categories we'd been taught, and I watched the response default to citing doctrine rather than actually sitting with what the person was going through. The rule mattered more than the person in front of us, and everyone around me seemed to think that was the correct order of priorities.<br/><br/>That bothered me in a way I couldn't shake. I'd been taught that the doctrine itself was supposed to be in service of compassion, a moral framework meant to help people treat each other well. Watching it get used instead to shut down empathy for someone whose situation didn't fit the approved script felt like watching the tool replace the purpose it was supposed to serve.<br/><br/>I don't think this is unique to religious communities, plenty of secular institutions substitute rules for actual moral reasoning too. But I'd specifically been told that faith was where I'd find the deepest wellspring of compassion, and finding, instead, doctrine consistently overriding empathy in the moments that mattered most, was a genuine letdown that I couldn't reconcile with what I'd been promised.<br/><br/>Once I started actively looking for moral guidance outside of that framework, in philosophy, in secular ethics, in just paying closer attention to how people around me actually treated each other well or badly, I found I didn't miss the doctrine nearly as much as I thought I would.",
     "imageUrl": "/uploads/compassion-empathy-ethics.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2024-01-22T00:00:00.000Z",
-    "updatedAt": "2024-01-22T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-10-11T00:00:00.000Z",
+    "updatedAt": "2025-10-11T00:00:00.000Z"
   },
+
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2008",
     "title": "The Fading Wasn't Dramatic, It Was Just Honest",
@@ -83,9 +492,9 @@
     "excerpt": "I didn't have a single crisis of faith or a dramatic rebellion. Belief just quietly stopped doing what it used to do for me, and I eventually stopped pretending otherwise.",
     "content": "I think people expect deconversion stories to have a clean narrative arc, a single crisis, a dramatic loss, a specific moment of rupture. Mine didn't really work that way, and I suspect that's true for a lot of people even if it doesn't make for as compelling a story.<br/><br/>What actually happened was slower and quieter. Rituals that used to feel meaningful started to feel like performance, going through motions I'd once found genuinely moving without feeling much of anything anymore. Prayer, during a period when I was actually struggling with something real, didn't produce comfort the way I'd been told it would, and I remember noticing that absence more than I remember any single dramatic doubt.<br/><br/>For a long time I assumed the problem was with me, that I wasn't praying correctly, or wasn't faithful enough, and I want to be honest that a lot of religious frameworks are built to interpret exactly that kind of doubt as a personal failing rather than as useful information. Eventually I stopped accepting that framing. If something that's supposed to provide comfort and meaning consistently fails to do either, over years, not weeks, I think it's reasonable to conclude the belief itself has stopped working for you, rather than assuming you're the one who's broken.<br/><br/>I don't regret how slowly it happened. I think the gradual version, sitting with the discomfort instead of rushing to a dramatic conclusion, is probably why the eventual shift felt more like honesty than rebellion.",
     "imageUrl": "/uploads/gradual-faith-questioning-personal.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2024-05-16T00:00:00.000Z",
-    "updatedAt": "2024-05-16T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-11-01T00:00:00.000Z",
+    "updatedAt": "2025-11-01T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2009",
@@ -94,10 +503,22 @@
     "excerpt": "Not every secular person has a deconversion story. A growing number were simply raised without religion at all, and that's its own kind of relationship with the subject.",
     "content": "A lot of the writing I've done on this topic assumes a deconversion arc, growing up with belief and eventually losing it, because that's a common and well-documented pattern. But I think it's worth acknowledging the other path too, one I've encountered often enough through people close to me to want to write about it honestly: people raised in secular households from the start, sometimes called religious \"nones,\" who never had a faith to lose because they were never given one to hold in the first place.<br/><br/>What strikes me about that experience, watching it from the outside as someone who did have a deconversion arc, is how different the emotional texture is. There's no sense of loss, no grief for a worldview that used to provide comfort, because there was never an attachment there to begin with. Morality, meaning, and community got built through entirely different channels from childhood onward, family, secular ethical reasoning, cultural traditions stripped of their explicitly religious content.<br/><br/>I don't think this makes that path more or less legitimate than mine, just structurally different. If anything, I think it's a useful reminder that non-belief doesn't require a dramatic personal journey to be a fully formed, coherent way of relating to the world. Plenty of people simply never found the initial premises compelling enough to adopt, the same way plenty of people never adopted a specific political ideology they were exposed to growing up.<br/><br/>The growing number of people raised this way suggests something bigger than individual biography is shifting, and I think it's worth taking seriously as its own distinct category rather than folding it into the deconversion narrative by default.",
     "imageUrl": "/uploads/secular-upbringing-nones-generation.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2024-09-19T00:00:00.000Z",
-    "updatedAt": "2024-09-19T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-11-22T00:00:00.000Z",
+    "updatedAt": "2025-11-22T00:00:00.000Z"
   },
+  {
+    "id": "2a7e4c9b-8d31-4f56-9c2a-3b8e1d5f7a20",
+    "title": "The Attacks Keep Happening, and the World Keeps Looking Away",
+    "slug": "attacks-keep-happening-world-looks-away",
+    "excerpt": "Reports of continued violence against religious minorities and AL-linked families haven't stopped just because the news cycle moved on.",
+    "content": "A family friend's temple in a village outside Jessore was vandalized again a few weeks ago, the third such incident I've heard about secondhand just this year. It barely registered as news outside of local reporting, if it registered at all.<br/><br/>I want to be careful here, because I know exaggeration doesn't help anyone and I'm relying on accounts from people I trust rather than something I witnessed directly. But the pattern I keep hearing about, from multiple districts, from people with no reason to coordinate a story, is consistent: religious minorities and families known to have AL ties continuing to face harassment, property damage, and social exclusion well over a year after the transition, with local law enforcement often slow to respond or unwilling to get involved.<br/><br/>I don't think this is what anyone abroad who cheered on the change in government back in 2024 actually wanted to see happen. But I also think silence about it, including international silence, makes it easier for these incidents to keep happening without consequence. I'm not asking anyone to take my word alone for this. I'm asking people to actually look into it, because the families living through it don't have the platform to make their own case the way international commentary about the 'new Bangladesh' does.",
+    "imageUrl": "/uploads/minority-attacks-2025.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-11-25T00:00:00.000Z",
+    "updatedAt": "2025-11-25T00:00:00.000Z"
+  },
+
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2010",
     "title": "Meaning Without a Maker: What I Actually Believe Now",
@@ -105,9 +526,9 @@
     "excerpt": "After writing so much about what I don't believe, I think it's worth being just as clear about what actually fills that space now, because it isn't nothing.",
     "content": "I've spent a lot of posts explaining the reasons I moved away from religious belief, evidence standards, the problem of evil, institutional failures, personal experience. I think it's worth closing this particular series by being just as direct about what I've built in that space instead, because I don't think the honest answer is emptiness, and I don't want to leave the impression that it is.<br/><br/>Meaning, for me, comes from fairly ordinary sources now: relationships with people I care about, work that feels worth doing, curiosity about how the world actually works, and a sense of responsibility to the people around me that doesn't need a cosmic enforcement mechanism to feel binding. I don't think I treat people well because I'm afraid of consequences in an afterlife, I think I try to treat people well because I can see, directly, how my actions affect them, and that feels like a sufficient reason on its own.<br/><br/>Secular humanism is probably the closest label for where I've landed, a commitment to reason, evidence, and human welfare as the basis for ethics, without needing to ground any of it in the supernatural. I find real intellectual and even something like spiritual satisfaction in things like the scale of the universe, the improbability of conscious life existing at all, the accumulated, hard-won knowledge that got us this far, without needing to attribute any of it to a designer.<br/><br/>I don't think this makes me morally superior to people who believe differently, plenty of religious people live more genuinely ethical lives than I do on any given day. I just think it's important to say clearly that walking away from religious belief wasn't a walk into nothing. For me, it was a walk toward a version of meaning I could actually stand behind without reservations.",
     "imageUrl": "/uploads/secular-humanism-meaning-purpose.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2025-02-14T00:00:00.000Z",
-    "updatedAt": "2025-02-14T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2025-12-14T00:00:00.000Z",
+    "updatedAt": "2025-12-14T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2011",
@@ -116,9 +537,9 @@
     "excerpt": "The old watchmaker analogy, that complexity implies a designer, was one of the first arguments I had to actually sit with and take apart piece by piece.",
     "content": "The watchmaker analogy is one of the oldest arguments in the apologetics toolkit, and it was one of the first ones I ever took seriously enough to actually try to dismantle rather than just accept or reject on instinct. The basic version goes like this: if you found a watch on a beach, you'd assume a watchmaker made it, because its complexity and functional design imply an intelligent creator. Living organisms are far more complex than a watch, so the argument goes, they must imply a far greater designer.<br/><br/>The problem I eventually landed on isn't that the analogy is stupid, it's that it smuggles in an assumption that biological complexity works the same way mechanical complexity does. A watch can't reproduce itself, mutate, or be shaped by differential survival over millions of generations. Evolutionary biology gives a genuinely detailed account of how complex, functional structures can emerge gradually through selection acting on variation, without needing a designer planning the outcome in advance. The eye, often cited as the classic example of irreducible complexity, actually has a well-documented evolutionary pathway through simpler light-sensing structures still visible in living organisms today.<br/><br/>I don't think this fully dissolves every version of the design argument, some contemporary versions focus on the fine-tuning of physical constants rather than biology specifically, and that's a genuinely harder conversation involving cosmology I don't think has a clean settled answer either way. But the classic biological version, once I understood how selection actually works over deep time, stopped carrying the persuasive weight it once had for me.",
     "imageUrl": "/uploads/watchmaker-argument-design-evolution.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2025-04-10T00:00:00.000Z",
-    "updatedAt": "2025-04-10T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-01-04T00:00:00.000Z",
+    "updatedAt": "2026-01-04T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2012",
@@ -127,9 +548,9 @@
     "excerpt": "Betting on belief because the potential downside of unbelief is infinite sounds clever until you actually try to apply it consistently.",
     "content": "Pascal's Wager gets brought up a lot in these conversations, the idea that believing in God is the rational bet even under uncertainty, because the potential cost of wrongly disbelieving, eternal damnation, vastly outweighs the cost of wrongly believing, a bit of wasted devotion. On its face it has a certain clean, game-theoretic elegance to it.<br/><br/>The problem I kept running into is what philosophers call the many-gods objection, and once I actually thought it through, it broke the wager for me entirely. The argument only works if there are exactly two options on the table, a specific God who rewards belief and punishes disbelief, or no God at all. In reality, there are and have been thousands of different religious traditions throughout history, many making mutually exclusive claims about which specific beliefs and practices are required for salvation and which will be punished. If I \"wager\" on one tradition's version of God, I'm simultaneously betting against every other tradition's version, some of which might punish exactly the beliefs I'd be adopting to hedge against the first.<br/><br/>There's also something that never sat right with me about the wager as a basis for genuine faith in the first place. It's explicitly a self-interested calculation about hedging cosmic risk, not a claim that the belief is actually true. A God who rewards people for strategically pretending to believe, or for talking themselves into belief purely to avoid punishment, seems like a strange thing to worship even if such a God existed.<br/><br/>I think the wager is clever as a piece of decision theory. I don't think it's a reason to actually believe anything.",
     "imageUrl": "/uploads/pascals-wager-philosophy-decision.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2025-06-05T00:00:00.000Z",
-    "updatedAt": "2025-06-05T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-01-25T00:00:00.000Z",
+    "updatedAt": "2026-01-25T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2013",
@@ -138,9 +559,9 @@
     "excerpt": "The religion most people hold with total conviction is overwhelmingly predicted by where and when they happened to be born. That fact took me a while to really sit with.",
     "content": "One of the ideas that shifted my thinking the most wasn't a knockdown philosophical argument, it was a simple observational fact that's easy to state and surprisingly hard to fully absorb: the specific religion a person holds with total conviction is overwhelmingly predictable from where and when they were born. Someone born in one region grows up certain of one tradition's truth, someone born in another region grows up equally certain of a different, often incompatible tradition's truth, each treating their own upbringing as the one that happened to land on the actual truth of the universe.<br/><br/>Philosophers sometimes call this the outsider test for faith: imagine evaluating your own religion's specific truth claims with the same skeptical distance you'd naturally apply to a religion you weren't raised in. Most people, when encountering an unfamiliar tradition's specific claims, a sacred text found on a hillside, a prophet's visions, a specific set of ritual obligations, apply real scrutiny. That scrutiny tends to relax considerably for the tradition someone happened to be raised inside.<br/><br/>Applying that same outsider scrutiny to the religion I grew up in was uncomfortable, because it meant treating claims I'd been taught to hold as self-evidently true with the same skeptical distance I'd apply to any other tradition's specific claims. Once I actually did that consistently, a lot of what had felt uniquely compelling about my own upbringing started to look more like familiarity than evidence.<br/><br/>I don't think this test proves any specific religion false. I think it's a useful check against mistaking cultural inheritance for independently verified truth, which is a distinction I hadn't taken seriously enough for a long time.",
     "imageUrl": "/uploads/religious-diversity-outsider-perspective.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2025-08-14T00:00:00.000Z",
-    "updatedAt": "2025-08-14T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-02-16T00:00:00.000Z",
+    "updatedAt": "2026-02-16T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2014",
@@ -149,9 +570,9 @@
     "excerpt": "Losing the promise of an afterlife is, for a lot of people, the hardest part of walking away from belief. I don't think I've fully resolved it, but I've found something workable.",
     "content": "I won't pretend this is the easy part. Of everything I've had to work through, the loss of a promised afterlife is the one that still visits me at inconvenient moments, usually late at night, usually after thinking about someone I've lost or will eventually lose. There's a specific kind of comfort in believing that death isn't really an ending, and losing access to that comfort honestly, rather than just intellectually, took longer than any of the philosophical arguments did.<br/><br/>What I've settled into, and I want to be honest that \"settled\" is doing some optimistic work in that sentence, is less a triumphant answer and more a shift in what I focus on. If this life is what I actually have, rather than a waiting room for something else, then the specific relationships, moments, and work that fill it matter more, not less, because there isn't a cosmic do-over where I get to make different choices. That reframe doesn't erase the fear, but it does something useful with it.<br/><br/>I also think there's an honesty in facing mortality without a promised continuation that I've come to value, even on the hard days. I'm not managing my life around securing a specific outcome in a place I can't verify exists. I'm trying to build something meaningful with the actual, finite time I know I have, and there's a clarity in that which I don't think I had access to before.<br/><br/>I don't think I've conquered the fear of death. I don't think most people, believers included, ever fully do. But I've found a way to hold it that feels honest rather than borrowed, and that matters to me.",
     "imageUrl": "/uploads/mortality-meaning-life-philosophy.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2025-10-02T00:00:00.000Z",
-    "updatedAt": "2025-10-02T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-03-09T00:00:00.000Z",
+    "updatedAt": "2026-03-09T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2015",
@@ -160,20 +581,31 @@
     "excerpt": "Not handing children a religious framework doesn't mean handing them nothing. It means being more deliberate about where their sense of meaning and morality actually comes from.",
     "content": "One question I get asked more than almost any other, usually by people who mean it genuinely rather than as a gotcha, is what I actually tell my kids instead of religion. I understand the question, because a lot of religious upbringing does real work: explaining death, providing a moral framework, offering a sense of belonging and ritual. Simply subtracting religion without replacing any of that would leave a real gap.<br/><br/>What I've tried to do instead is be more deliberate, not less, about each of those pieces individually. On death, I try to be honest rather than either falsely reassuring or needlessly bleak, acknowledging it's sad and permanent while focusing on how the people we lose live on in memory and impact. On morality, I try to ground it in empathy and consequences I can actually explain, how does this action affect another person, rather than in an appeal to divine command or fear of punishment. On belonging, we've found that through extended family, community groups, and just consistent, intentional time together, rather than through a weekly religious service specifically.<br/><br/>I also try not to raise them as the mirror image of a religious upbringing, teaching them that non-belief is the obviously correct position everyone smart eventually reaches. I want them to actually understand why people believe what they believe, and to be capable of forming their own conclusions once they're old enough to genuinely wrestle with these questions themselves, rather than just inheriting my answer as an unquestioned replacement for someone else's unquestioned answer.<br/><br/>It's more work than handing them a ready-made framework would be. I think it's also more honest, and so far, it feels like the right tradeoff.",
     "imageUrl": "/uploads/secular-parenting-children-values.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2025-11-20T00:00:00.000Z",
-    "updatedAt": "2025-11-20T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-03-30T00:00:00.000Z",
+    "updatedAt": "2026-03-30T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2016",
-    "title": "Building Community Outside of Church",
-    "slug": "building-community-outside-church",
+    "title": "Building Community Outside of Mashjid",
+    "slug": "building-community-outside-mashjid",
     "excerpt": "Losing my faith meant losing a ready-made community too, and I underestimated how much work it would take to rebuild that part deliberately.",
     "content": "Nobody warned me how much the community side of this would matter. I'd expected to wrestle with the philosophical questions, the arguments about evidence and suffering and design. What I hadn't fully anticipated was how much of my actual social infrastructure, people I saw weekly, a built-in support network during hard times, a sense of belonging to something larger than myself, was tied directly to a religious institution I was stepping away from.<br/><br/>Rebuilding that has genuinely been the harder, slower project. Secular community spaces exist, but they don't have the same centuries of institutional momentum behind them, the automatic weekly gathering, the built-in rituals for marking birth, marriage, and death, the assumption that showing up will connect you with people. I had to be a lot more intentional about finding and maintaining community than I'd ever needed to be when a religious institution was doing a lot of that structural work for me by default.<br/><br/>What's worked for me has been a combination of things, none as complete on its own as the community I left behind: closer, more deliberate friendships that I actively maintain rather than assume will sustain themselves, volunteer work that provides both purpose and regular social contact, and secular or humanist gathering groups that, while smaller and less established, do exist and are growing in a lot of places.<br/><br/>I don't think I've fully replaced what I lost, and I'm honest with myself about that. But I've come to see community-building as something I now have to actively practice rather than passively inherit, and there's been an unexpected value in that too, even on the days it feels like more effort than it used to require.",
     "imageUrl": "/uploads/secular-community-friendship-support.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2026-01-15T00:00:00.000Z",
-    "updatedAt": "2026-01-15T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-04-21T00:00:00.000Z",
+    "updatedAt": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "id": "7a3e5c9b-1d68-4f24-8b3a-9c1e6d4f2b10",
+    "title": "Four Years of Writing This Blog, and I'm Still Not Done",
+    "slug": "four-years-writing-blog-not-done",
+    "excerpt": "Looking back on everything this country and this party have been through since I started keeping this record, and why I'm still here writing about it.",
+    "content": "When I started writing on this blog, none of what's happened since would have seemed plausible to me. A bridge opening, a metro running, an economy holding steady through a global crisis, and then, within a couple of years, a government toppled, a party banned, friends and family scattered or silenced. It's been a strange four years to live through, let alone write about honestly.<br/><br/>I've tried, in these posts, to hold two things at once: real pride in what got built during those years, and real grief over how it all came apart and what's happened to people I care about since. I know plenty of readers will think I'm biased, and they're right, I am, I've never pretended otherwise on this blog. But bias isn't the same thing as dishonesty, and I've tried hard not to lie about what I've seen, even when the truth was uncomfortable for my own side.<br/><br/>I don't know what the next few years hold for this party or this country. Elections may or may not happen on the timeline anyone's promising. But I know I'm not going to stop writing about it, because I think the people who lived through this deserve more than one version of the story, and this has always been mine.",
+    "imageUrl": "/uploads/four-years-blog-2026.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-05-12T00:00:00.000Z",
+    "updatedAt": "2026-05-12T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2017",
@@ -182,9 +614,9 @@
     "excerpt": "The question I get asked most often, in one form or another, is how I can have a coherent sense of right and wrong without a divine lawgiver behind it.",
     "content": "The question comes up in a lot of different phrasings, but it boils down to the same thing: without God as the source of moral law, what stops morality from just being arbitrary personal preference? I understand why the question feels urgent to people who've always had morality anchored to something outside themselves. I don't think the anchor it needs has to be supernatural, though.<br/><br/>The version of secular ethics I find most compelling grounds morality in something fairly concrete: the actual, observable effects our actions have on the wellbeing of other conscious beings capable of suffering and flourishing. That's not arbitrary in the way \"just personal preference\" implies, it's testable and reasoned about the same way other empirical claims are, even if it doesn't have the certainty of a divine command. We can argue about specific applications, and people do, but the underlying commitment, that suffering matters and flourishing matters, doesn't require a supernatural source to function as a real, binding framework.<br/><br/>I'd also push back gently on the assumption that divine command actually solves the arbitrariness problem rather than just relocating it. If something is good only because a deity commands it, that starts to look arbitrary in its own way, dependent entirely on that particular deity's will rather than on any deeper reasoning about why it's actually good. Philosophers have been arguing about this exact tension, sometimes called the Euthyphro dilemma, for over two thousand years, and I don't think divine command ethics resolves it as cleanly as it's often presented.<br/><br/>I don't think secular ethics is easier than religious ethics. I think it just puts the hard work of moral reasoning in a different, and to me more honest, place.",
     "imageUrl": "/uploads/secular-ethics-morality-philosophy.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2026-03-09T00:00:00.000Z",
-    "updatedAt": "2026-03-09T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-06-02T00:00:00.000Z",
+    "updatedAt": "2026-06-02T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2018",
@@ -193,9 +625,9 @@
     "excerpt": "I don't think prayer works the way I once believed it did, but I'll admit I still miss the specific kind of comfort it used to provide, and I think that honesty matters.",
     "content": "I want to write something a little more vulnerable than usual, because I think a lot of writing from an atheist perspective leans hard into the intellectual case and skips past something I still feel, even years into this: I miss praying. Not because I think it worked the way I once believed, sending a request outward to be heard and possibly answered, but because it gave me a specific, structured space to sit with fear, gratitude, and uncertainty that I haven't fully replaced.<br/><br/>What I've come to understand is that prayer was probably doing something real, just not the something I thought it was doing at the time. The act of articulating a worry out loud, sitting with it in stillness, naming what I was grateful for, that has genuine psychological value regardless of whether anything on the other end was listening. It's closer to a structured meditation or an act of self-reflection than a genuine two-way communication, but the value of that structure was real even if my explanation for why it worked was wrong.<br/><br/>I've tried to rebuild something like that, quiet, deliberate reflection, sometimes written down, sometimes just sitting with a difficult feeling instead of rushing past it, without the theological framing attached. It's not identical, and I won't pretend it fully replaces what prayer gave me, particularly in genuinely frightening moments where the old habit of reaching out to something bigger than myself still surfaces almost automatically.<br/><br/>I think it's worth admitting that walking away from belief doesn't mean every part of the old framework was worthless. Some of it was doing real psychological work, and I think the honest move is to keep what actually helped, even after discarding the explanation that used to justify it.",
     "imageUrl": "/uploads/prayer-meditation-reflection-comfort.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2026-04-22T00:00:00.000Z",
-    "updatedAt": "2026-04-22T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-06-23T00:00:00.000Z",
+    "updatedAt": "2026-06-23T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2019",
@@ -204,9 +636,9 @@
     "excerpt": "Telling the people closest to me that I no longer shared their faith was, in some ways, harder than any of the philosophical arguments I'd already worked through.",
     "content": "Working through the arguments, evidence, the problem of evil, textual criticism, was, in a strange way, the easier part of this whole process. Telling my own family was harder, because it wasn't an intellectual exercise anymore, it was a conversation that risked changing how people who loved me saw me, and how comfortable they felt around me.<br/><br/>I put it off for longer than I probably should have, partly out of fear of disappointing people, partly out of a genuine reluctance to cause them pain over something I knew mattered enormously to them. When I finally did have the conversation, it went about as well as these things reasonably can, which is to say it wasn't smooth, there was real hurt and real worry on their end, questions about whether I still had values at all, whether this reflected something they'd failed to instill.<br/><br/>What helped, over time, wasn't winning any argument. It was continuing to show up as the same person I'd always been, someone who still cared about them, still showed up for family obligations, still lived according to values they could recognize even if the framework underneath had changed. I think a lot of the initial fear on their side wasn't really about the specific philosophical position, it was about whether losing the shared belief meant losing the shared relationship too.<br/><br/>I don't think every family reconciles as gracefully as mine eventually did, and I don't want to pretend this conversation is easy or safe for everyone in every family or community. But for anyone facing that same conversation, I'd say the relationship usually survives better than the fear anticipates, provided both sides are willing to keep showing up for each other through the disagreement.",
     "imageUrl": "/uploads/family-conversation-belief-relationships.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2026-06-11T00:00:00.000Z",
-    "updatedAt": "2026-06-11T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-07-15T00:00:00.000Z",
+    "updatedAt": "2026-07-15T00:00:00.000Z"
   },
   {
     "id": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2020",
@@ -215,8 +647,19 @@
     "excerpt": "I still gather with family for the holidays I grew up celebrating. What's changed is what I understand myself to be actually celebrating when I do.",
     "content": "I still put up decorations for the holidays I grew up with. I still gather with extended family for the same seasonal celebrations that shaped my childhood. What's different is what I actually understand myself to be marking when I do, and I think that distinction matters more to me than it probably looks like from the outside.<br/><br/>A lot of religious holidays sit on top of much older seasonal and agricultural traditions anyway, marking solstices, harvests, and the turning of the year long before any specific theology attached itself to those dates. I find real value in leaning into that older layer, the natural rhythm of the year, the gathering of people who matter to me at meaningful points in the calendar, the specific family recipes and rituals that have nothing to do with doctrine and everything to do with shared history.<br/><br/>I've had to be honest with family members about the shift, some holidays involve specific religious observances I no longer participate in with genuine belief, and I try to be respectful about that rather than either performing belief I don't have or making a point of visibly opting out in a way that turns a family gathering into a statement. Mostly that's meant quietly stepping back from specific religious components while staying fully present for the parts that are really about togetherness.<br/><br/>I don't think keeping these traditions makes me inconsistent. I think it reflects something I've come to believe more broadly: that a lot of what religion provided, ritual, seasonal rhythm, connection to people I love, doesn't actually require the theology underneath it to still be worth keeping.",
     "imageUrl": "/uploads/holiday-traditions-family-secular.png",
-    "authorId": "324842e4-9dea-4152-b37d-71a6650d8946",
-    "createdAt": "2026-07-30T00:00:00.000Z",
-    "updatedAt": "2026-07-30T00:00:00.000Z"
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-08-05T00:00:00.000Z",
+    "updatedAt": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "id": "7b3f5d1a-9c62-4e48-8b3d-1a7c9e5f3d00",
+    "title": "Two Years Later: Has Bangladesh Found the Stability It Was Promised?",
+    "slug": "two-years-later-bangladesh-stability-promised",
+    "excerpt": "It's been two years since the interim government took over promising reform and stability. I think it's fair to ask honestly whether that promise has been kept.",
+    "content": "Two years ago, we were told this transition would fix everything that was supposedly broken. But I look around Dhaka today, and I can't help asking: what exactly needed fixing? The last seventeen years under the Awami League were, on balance, the best this country has seen — and we're now watching nearly every gain from that era be squandered, one by one.\n\nUnder the Awami League, Bangladesh was one of the fastest-growing economies in the world. The taka was stable, foreign reserves were healthy, and millions of people were lifted out of poverty. Today the currency is under constant pressure and ordinary families feel the squeeze at every market and every petrol pump. The economic managers of the last seventeen years had their flaws like any government, but they understood something fundamental: stability and continuity are what allow a country to prosper. We've traded that for chaos.\n\nLaw and order is another story that doesn't get told honestly. Under the Awami League government, people could open their shops without fear, travel at night, and do business without looking over their shoulders. Now the complaints from ordinary shopkeepers and small business owners — the kind of people who rarely speak up publicly about politics — have gotten louder, not quieter. That silence breaking should worry anyone paying attention.\n\nAnd then there are the elections. The Awami League delivered election after election, on time, with real campaigns and real choices. Elections that were supposed to happen under this interim arrangement have been delayed and delayed again, with shifting justifications each time — all while those who won at the ballot box are sidelined and vilified. Meanwhile, the infrastructure projects that were moving forward under the last government — the metro rail, the expressways, the power plants, the bridges — the very projects that made me write with real pride a few years back, have slowed to a crawl or stalled entirely.\n\nI'm not claiming the last seventeen years were perfect — no government anywhere is. But judged on its own terms — growth, stability, infrastructure, women's empowerment, food security — the Awami League record stands up against any in our history. After two years, it's time to stop grading this interim period against the mistakes of the past and start asking what it has actually delivered. From where I sit, that answer isn't a comfortable one for the people currently in charge.\n\nI still believe this country did better, on balance, with the Awami League government that could be held accountable at the ballot box than with the current arrangement. I hope we get the chance to test that belief again soon, at an actual election, where the people — not the streets, not the hashtags — get to decide.",
+    "imageUrl": "/uploads/interim-govt-two-years-2026.png",
+    "authorId": "921d71e2-a0cd-471f-bfee-c20d9ac76b32",
+    "createdAt": "2026-08-15T00:00:00.000Z",
+    "updatedAt": "2026-08-15T00:00:00.000Z"
   }
 ]
