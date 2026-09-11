@@ -6,13 +6,5 @@
     "passwordHash": "$2a$10$d09dSr1AKmHmkLe44CqNtehLQmcvnm.P4wAZ4O8gJr3gKEVZ3unHO",
     "role": "admin",
     "createdAt": "2026-09-03T05:03:35.040Z"
-  },
-  {
-    "id": "56b1651d-0965-4ac4-865b-3ad4abc0093b",
-    "username": "Jenny",
-    "email": "jenny@gmail.com",
-    "passwordHash": "$2a$10$wQMXNWa3IwQ.cN9ykGQloOAz1.ehCCXPtoibOoAnOqOnBVVca1s/e",
-    "role": "user",
-    "createdAt": "2026-09-04T01:25:17.891Z"
   }
 ]
