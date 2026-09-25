@@ -6,5 +6,501 @@
     "parentId": null,
     "content": "dhur shala pagol",
     "createdAt": "2026-09-04T01:25:37.638Z"
+  },
+  {
+    "id": "6a555c28-71f2-494c-b3dd-1ad48c2f01a9",
+    "postId": "f3a8c2b4-6d91-4e77-9a2b-1c4d8e6f0a11",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Bal korse, khanki magi.",
+    "createdAt": "2022-01-11T14:22:15.120Z"
+  },
+  {
+    "id": "49577cdf-c660-41de-9ee7-14be4dd7df71",
+    "postId": "b7e51f3a-2c84-4b96-8d1e-5f7a9c3b6e22",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "chodnami koro? we could have made 10 bridges with this price.",
+    "createdAt": "2022-06-26T10:14:28.696Z"
+  },
+  {
+    "id": "3a6c984a-5fdf-49dd-856b-4d1af2bed8a8",
+    "postId": "7b3f5d1a-9c62-4e48-8b3d-1a7c9e5f3d00",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Tui bhule o ar desh a ashish na. Naile tor khobor ache.",
+    "createdAt": "2026-08-16T11:45:00.000Z"
+  },
+  {
+    "id": "8f1c2a3b-4d5e-4f6a-9b0c-1a2b3c4d5e01",
+    "postId": "9c2e5a7b-4d16-4f38-a2c9-6b8e3d1f7a44",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Metro e uthle to ticket er dam e pocket khali. Shala churanto bebosthapona, public er pet e laath.",
+    "createdAt": "2023-01-09T15:30:10.301Z"
+  },
+  {
+    "id": "8f1c2a3b-4d5e-4f6a-9b0c-1a2b3c4d5e02",
+    "postId": "f3a8c2b4-6d91-4e77-9a2b-1c4d8e6f0a11",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Digital Bangladesh naki digital chor. Shobai jane biddut er bill kivabe khay. Boka banachcho ke?",
+    "createdAt": "2022-01-12T09:18:44.822Z"
+  },
+  {
+    "id": "8f1c2a3b-4d5e-4f6a-9b0c-1a2b3c4d5e03",
+    "postId": "5b8e3d1f-2a67-4c94-8b1e-6d3a9f5c2b06",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Clinic er naam e shudhu photo session ar uddodhon. Doctor pawa jay na shala, oshudh pawa jay na. Bhondo publiciti.",
+    "createdAt": "2023-08-02T16:05:02.115Z"
+  },
+  {
+    "id": "8f1c2a3b-4d5e-4f6a-9b0c-1a2b3c4d5e04",
+    "postId": "3f7d1b8e-9a46-4c25-8d3b-5e1a7c9f2d04",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Meye der power dekhaccho? Desher meyera ekhono rastay nirapod na, ar tui hashosh. Chhagoler moto likhish na.",
+    "createdAt": "2023-03-09T11:24:31.509Z"
+  },
+  {
+    "id": "8f1c2a3b-4d5e-4f6a-9b0c-1a2b3c4d5e05",
+    "postId": "f4b8d2a6-3e17-4c59-9d2a-8b6c1e4f7a09",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Trial niye ato kanna keno? Je faad dise desh chharay dise. Dalaler blog e ki aro ache?",
+    "createdAt": "2025-08-21T14:15:17.940Z"
+  },
+  {
+    "id": "8f1c2a3b-4d5e-4f6a-9b0c-1a2b3c4d5e06",
+    "postId": "b2e5a8c1-4d67-4f39-9a1b-3c6e8d2f5a11",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Dhaner dam niye boka boka post. Chashira bhukte hara, ar tui khushi. Shala chapa manush.",
+    "createdAt": "2022-04-06T18:00:45.663Z"
+  },
+  {
+    "id": "8f1c2a3b-4d5e-4f6a-9b0c-1a2b3c4d5e07",
+    "postId": "6d2a9c4e-3f81-4b57-9c2a-8e1b5d3f7a16",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Tunnel banay ki hobe? Gorib manush er gari te tel nei shala. Awami dalaler gham chhos na ekhane.",
+    "createdAt": "2023-10-29T13:40:12.204Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6001",
+    "postId": "b7e51f3a-2c84-4b96-8d1e-5f7a9c3b6e22",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Shala sorbonasher churanto udahoron. Eto taka dile gorib der bhat khaite dite partam. Fokinni prokolpo.",
+    "createdAt": "2022-06-27T08:12:33.471Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6002",
+    "postId": "9c2e5a7b-4d16-4f38-a2c9-6b8e3d1f7a44",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Metro er gham chhas na bhai. Ticket er dam sunle gariwala bole bhaggo bhalo. Bolod er moto likhish na.",
+    "createdAt": "2023-01-10T12:05:22.000Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6003",
+    "postId": "8a3d7c1e-5b92-4f46-b8d3-1e7a4c9b6d77",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Hijacked naki? Shala michile chhatro ra mara poRse, ar tui blame dichish oder opor e. Chokkorer moto kaj koro na.",
+    "createdAt": "2024-07-26T16:14:41.806Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6004",
+    "postId": "e2c6a4b8-3f17-4d59-9a2e-7c1b5d8f3a66",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Mandate boltecho ekhon? Janatar vote nei, shudhu BNP boycott er drama. Chapa election niye ar likhish na.",
+    "createdAt": "2024-01-09T18:16:19.342Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6005",
+    "postId": "4f7b1d3e-8a92-4c56-b7e3-2d9a5c8f1b55",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Buses jwalay ke bolo to? Shob somoy opor e chape diso. Police er guli chhatro der gay lage nai toh? Harami logic.",
+    "createdAt": "2023-11-01T09:18:52.915Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6006",
+    "postId": "5c9e2a4b-7d31-4f68-8a2c-9b6d3e1f7c88",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Mob rule bolccho? Jonogon gonotontro ferot niyeche, ar dalal der koshto hocche shudhu. Bujhso keno lage?",
+    "createdAt": "2024-08-13T14:21:07.554Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6007",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2001",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Nastiker baccha, oshanti shuru korecho blog e. Iman chhilo na jibone, keno shobai ke shathe nibe?",
+    "createdAt": "2025-06-06T19:23:38.190Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6008",
+    "postId": "3f7d1b8e-9a46-4c25-8d3b-5e1a7c9f2d04",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Nari obonoti niye post? Tui nijer baba mayer porishromer kaj korte parbi na, ar feminist holi. Lajja koro.",
+    "createdAt": "2023-03-10T08:25:14.677Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6009",
+    "postId": "d9c4a7e2-6b31-4f58-9a2d-7c1e5b8f3a05",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Hospitality naki? Shala 10 lakh refugee rekhe amader tax er taka sheddho koro. Kotokkhon cholbe erokom?",
+    "createdAt": "2023-06-21T17:27:46.038Z"
+  },
+  {
+    "id": "2b9c4e1a-7f3d-4a58-9c2b-1d5e8f3a6010",
+    "postId": "5b8e3d1f-2a67-4c94-8b1e-6d3a9f5c2b06",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Health ministry er chamcha. Clinic e gel e bujhba ashol obostha. Oi dokane shudhu pani ar chini paowa jay.",
+    "createdAt": "2023-08-03T11:29:55.411Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7001",
+    "postId": "c8b3e6a1-7d24-4f59-8a3c-2b6e9d1f4c02",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Shudhu 1975 e kanna kanna. 2009 theke jototo durrachori hoise tar hisab nai. Pita shohider naam e vote khaisos.",
+    "createdAt": "2022-08-16T15:35:12.348Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7002",
+    "postId": "a1d4f7e2-3b68-4c91-9d2a-6e8b1f4c7a01",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Biddut er post likhechosh? Load shedding e ami boro hoyechi. Grame load shedding cholche ekhono shala, chokh khule dekh.",
+    "createdAt": "2022-09-06T12:37:29.015Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7003",
+    "postId": "9d3f6b2a-8e41-4c75-9b3a-2d7c5e1f8a12",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Sitrang e jontrona poise toh? Asol bishoy hoche shala ashroy kendro gulo amnar dol loot kore kheyeche. Bolod.",
+    "createdAt": "2022-10-27T09:39:44.662Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7004",
+    "postId": "1d4a6c8e-9f2b-4a73-b5d8-3e7c1a4f9b33",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Bijoy dibosh er post e rajniti? 71 er shohider rokto e banaichcho tui toh nijer jeb bhorti korte. Chor er baccha.",
+    "createdAt": "2022-11-16T16:41:58.227Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7005",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2004",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Big Bang ar evolution niye boka boka lecture. Shala pora lekha shikhli kotha theke, bhaggo bhalo?",
+    "createdAt": "2025-08-08T18:44:10.893Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7006",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2010",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Meaning without maker? Tor life er meaning toh amra jani, Facebook e dhong kora ar blog e bhondo bokchodi.",
+    "createdAt": "2025-12-15T13:46:33.540Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7007",
+    "postId": "2e6b8d4a-1c73-4a59-9e2b-5d8f3a7c1b99",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Banned but not broken naki? Ekdom bhango hoye geche, moche felecho desh theke. Ekhon ghumay rakhbi post diye.",
+    "createdAt": "2025-05-13T10:48:51.106Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7008",
+    "postId": "8d2f6c1a-4b93-4e57-9c2a-1f8b5d3e6c07",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Nijer desh khay naki bolcchosh? Bazar e giye chal er dam toh shun. Shala shob shomoy sorkar er gham chhas.",
+    "createdAt": "2024-03-27T14:51:17.774Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7009",
+    "postId": "8f2c5a7b-4e19-4d63-9a2c-7b1e5d8f3a18",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "India r chokkor ami prathom bar dekhlam. Teesta te pani nei, ar tui friendship er gyan dichish. Shala dalal.",
+    "createdAt": "2024-05-11T12:53:42.361Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7010",
+    "postId": "3e8b5c1a-7d46-4f29-8b3a-1c6d9e2f4a17",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Union parishad chairman er gun gao? Oi shob chairman ra union e raja, taka chhara kaaj chalay na. Tharki post.",
+    "createdAt": "2023-12-07T09:56:08.947Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7011",
+    "postId": "2c6a4e8b-9d31-4f75-8b2e-3a1c7d5f9b08",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Desher bahire theke deshbhaktir post? Eto valobashle deshe thako shala. Bideshe bose bokchodi koro na.",
+    "createdAt": "2024-11-16T17:58:26.512Z"
+  },
+  {
+    "id": "4c7d2e5b-9a1f-4c36-8b2d-3e6a9c1f7012",
+    "postId": "7a3e5c9b-1d68-4f24-8b3a-9c1e6d4f2b10",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Char bochor blog likhechosh, char bochor dhong korso. Shobai bujhe geche tui ke ar keno likhish. Bhondo lok.",
+    "createdAt": "2026-05-13T16:01:13.289Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1001",
+    "postId": "4a8c1e6b-3f79-4d52-8a1c-6e9b3d5f2a13",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "40 minute er highway? Toll er dam shunle matha ghore. Gorib er toh rastay otha bondho. Chor der rajotto.",
+    "createdAt": "2022-08-21T11:10:22.114Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1002",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4032",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Buro bokar jonno 500 taka? Bajar e 500 taka te ek soptaho cholena shala. Bhondo daya dekhachcho.",
+    "createdAt": "2023-02-13T14:13:47.552Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1003",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4033",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Online e kotha boro, hajira kholle e hajir bina bodle taka lage ekhono. Chokkor service er gun gao na.",
+    "createdAt": "2023-04-06T15:16:31.908Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1004",
+    "postId": "1f5b8d3a-9e42-4c67-8b3a-5d1c9f2e6a15",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "10 bochor por mastanami cholche. Factory te ekhono exit nei ladder nei. Chapa post likhechosh shala.",
+    "createdAt": "2023-04-25T13:19:08.366Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1005",
+    "postId": "7c1e4a9b-5d28-4f36-9c2a-1e8b6d3f5a14",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Probashider golpo shunaos? Qatar e jamala gulo keno bolo na? Dalal ra dichhe flight e. Tharki sorkar er chamcha.",
+    "createdAt": "2023-05-19T10:22:54.721Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1006",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4034",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Solar er golpo 2015 er. Ekhon battery gulo gari te fele dichhe kew joray na. Fokinni prokolpo chhilo ekta.",
+    "createdAt": "2023-06-04T16:25:16.289Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1007",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4036",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Terminal er design boro, kajer toh training nei. Delay, luggage hariye jay, ar chori. Boka public dekhchhe shob.",
+    "createdAt": "2023-10-09T08:28:03.647Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1008",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4035",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "India r sathe rail banay ki pelam bhai? Teesta te pani ashe nai toh. Dalali chhere thako ektu.",
+    "createdAt": "2023-11-02T12:31:40.982Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1009",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4037",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Train e uthle mash hoye jay, schedule mene cholena. Elephant corridor dhangso kore nila shala. Bhondo unnoyon.",
+    "createdAt": "2023-11-12T15:34:12.435Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1010",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4039",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Mazdoor mara geche police er gulite, ar tui ektu guilty feel koros? Chhagoler cheye kom obostha tor. Lojja koro.",
+    "createdAt": "2023-11-17T11:37:26.873Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1011",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4038",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Rail link er gun gao? Train e jayga nei bhaRa beshi. Shudhu boro boro kotha bokchodi. Chapa manush.",
+    "createdAt": "2023-12-02T16:40:51.218Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1012",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a4040",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "IT park khali porda shala. Bideshi company ashe nai, deshi gulo o palaise. Boka bokchodi ar ki.",
+    "createdAt": "2024-03-16T18:43:37.564Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1013",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2002",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Dukkho niye philosophy koros? Tui jokhon asol kosto paibi tokhon bujhbi shala. Ekhon boitha niye bokos na.",
+    "createdAt": "2025-06-27T10:46:19.940Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1014",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2003",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Holy book er bishoy tui jachai korbi? Tor obossho nosto shala. Gyan er bokchodi bondho kor ekhon.",
+    "createdAt": "2025-07-19T14:49:02.395Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1015",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2005",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Ekhon scandal niye kanna? Tui toh oder e support kortish notun kale. Chokkorer moto kaj koro na bhai.",
+    "createdAt": "2025-08-30T17:52:44.761Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1016",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2006",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Moulana der politics niye post? Tui nije toh ekta nichi level er dalal. Bhondo nastik er baccha.",
+    "createdAt": "2025-09-20T19:55:18.127Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1017",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2007",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Empathy er gyan dichhosh? Tui jokhon AL er pachhe chilitosh tokhon tor empathy kothay chhilo? Harami logic.",
+    "createdAt": "2025-10-12T13:58:33.483Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1018",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2008",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Dhire dhire iman harachos? Durbolota shala. Emon kichu dhukiye rakhechish jibone je harachish?",
+    "createdAt": "2025-11-02T11:01:47.829Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1019",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2009",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Nastik friend der golpo? Shala tader baper maa ke shikhaisilo ki? Boka generation er bokchodi.",
+    "createdAt": "2025-11-23T15:04:22.276Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1020",
+    "postId": "2a7e4c9b-8d31-4f56-9c2a-3b8e1d5f7a20",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Hindu der opor hamla niye fake news cholche. Tui toh paka jhutabaz. Shala communal manush er sheshe.",
+    "createdAt": "2025-11-26T12:07:58.632Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1021",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2011",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Watchmaker argument niye class nichchish? Darwan der philosophy porasuna shala. Bhondo intellectual er dhong.",
+    "createdAt": "2026-01-05T14:11:14.997Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1022",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2012",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Pascal er wager niye matha kharap? Jibon e kichu kaaj nei tor? Boka choda ar ki likhbi na.",
+    "createdAt": "2026-01-26T10:14:41.353Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1023",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2013",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Jekhane jonmasho shei religion niye post? Obossho gyan tor nai tai oshanti. Tharki mone hoy.",
+    "createdAt": "2026-02-17T17:18:05.718Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1024",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2014",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Mrittu niye late night feeling? Ekdom cinema dialogue shala. Boka dhongi keu hote parbina tor moto.",
+    "createdAt": "2026-03-10T21:21:32.084Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1025",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2015",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Bacchader nastik banaccho? Tor bacchar obhaggo. Nijer poribar ta nosto korechosh shala.",
+    "createdAt": "2026-03-31T12:24:49.440Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1026",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2016",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb15d44044",
+    "parentId": null,
+    "content": "Mashjid chhere community khojchosh? Gom nirapod jayga pele bolo toh. Chhagol er moto kaj koros.",
+    "createdAt": "2026-04-22T15:28:17.895Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1027",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2017",
+    "userId": "f8d46805-5cdd-4238-8ff1-91eb157385923",
+    "parentId": null,
+    "content": "Morality god chara hoy naki? Tor morals dekhle goru o hashbe. Bhondo bujhar obhab tor.",
+    "createdAt": "2026-06-03T18:31:54.251Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1028",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2018",
+    "userId": "f8d46805-5cdd-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Namaj miss koros tarpor post likhe koshto pawas? Boka, emon kaj koris na shala.",
+    "createdAt": "2026-06-24T14:35:21.607Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1029",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2019",
+    "userId": "f8d46805-5cdd-9087-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Poribar ke nastik bolecchos? Tomar baper obhaggo. Lok er mone koshto disos shudhu dhong korte.",
+    "createdAt": "2026-07-16T16:38:48.963Z"
+  },
+  {
+    "id": "9e2c6a1b-4d7f-4a38-8b1c-5a9d3e7f1030",
+    "postId": "b7f2a1c4-3e5d-4a8b-9f11-2c8d4e6a2020",
+    "userId": "f8d46805-j654-4238-8ff1-91e9264j7244",
+    "parentId": null,
+    "content": "Eid pujo niye secular dhong? Jeta manosh na seta celebrate koros keno shala. Fokinni abhinoy.",
+    "createdAt": "2026-08-06T19:42:15.318Z"
   }
 ]
